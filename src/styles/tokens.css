@@ -1,58 +1,35 @@
-/**
- * greenlivingtrend.org 디자인 토큰
- * 자동 생성됨 (2026-05-07T11:09:36.475Z)
- * 출처: design-tokens.json
- *
- * 형식: RGB 채널 (예: "168 216 201")
- * 사용: rgb(var(--color-primary) / 30%) → bg-primary/30 같은 Tailwind alpha 변형 가능
- */
-
+/* greenlivingtrend.org design tokens — auto-generated 2026-05-08T03:42:19.297Z */
 :root {
   --color-background: 248 245 240;
   --color-foreground: 45 42 34;
-
   --color-primary: 92 124 78;
   --color-primary-foreground: 255 255 255;
-
   --color-accent: 168 136 100;
   --color-accent-foreground: 255 255 255;
-
   --color-muted: 243 240 235;
   --color-muted-foreground: 85 82 74;
-
   --color-card: 248 245 240;
   --color-card-foreground: 45 42 34;
-
   --color-border: 125 122 114;
   --color-input: 120 117 109;
   --color-ring: 92 124 78;
-
   --font-heading: "Plus Jakarta Sans", system-ui, sans-serif;
   --font-body: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-display: "Fraunces", serif;
   --font-mono: "JetBrains Mono", "Fira Code", monospace;
-
   --radius: 10px;
-
-  --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
-  --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
 [data-theme='dark'] {
   --color-background: 31 29 23;
   --color-foreground: 232 229 221;
-
   --color-primary: 61 82 50;
   --color-primary-foreground: 255 255 255;
-
   --color-accent: 168 136 100;
   --color-accent-foreground: 255 255 255;
-
   --color-muted: 39 37 31;
   --color-muted-foreground: 202 199 191;
-
   --color-card: 36 34 28;
   --color-card-foreground: 232 229 221;
-
   --color-border: 172 169 161;
   --color-input: 167 164 156;
 }

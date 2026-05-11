@@ -80,6 +80,9 @@ faq:
 draft: false
 ---
 
+import ProductBox from '../../components/ProductBox.astro';
+import Aff from '../../components/Aff.astro';
+
 The ENERGY STAR program (joint EPA + DOE) certifies energy-efficient appliances against tested benchmarks. Per DOE data and Consumer Reports verification, the savings are real and the payback periods short for major appliances. This article walks through what the data actually shows for refrigerators, dishwashers, washers/dryers, water heaters, and HVAC — and which upgrades have the highest ROI.
 
 The TL;DR: ENERGY STAR refrigerators, washers, and dryers deliver real $40-100/year savings each over base models, with 1-3 year payback on the typical $50-300 premium. Heat pumps are increasingly cost-effective for HVAC. Induction cooktops have indoor air quality benefits beyond efficiency. Federal Inflation Reduction Act provides significant rebates that often make upgrades net-zero cost.
@@ -396,3 +399,57 @@ ENERGY STAR appliances and heat pump systems deliver real, measured savings:
 Total potential household savings: $1,000-3,000/year. Federal IRA + state rebates often make upgrades net-zero or near-free.
 
 For complementary content, see [reading sustainability labels](/posts/reading-sustainability-labels) and [home recycling reality](/posts/home-recycling-reality-data).
+
+## Energy Star appliances with the strongest ROI
+
+ENERGY STAR certification adds 10-25% upfront cost on average, but the lifecycle savings on three appliance categories consistently outweigh the premium within 3-5 years.
+
+<ProductBox
+  name="LG WashTower Single Unit Front Load (ENERGY STAR)"
+  priceHint="$1,700-2,400 — washer + dryer combo footprint"
+  pros={[
+    "Single-unit design fits where a stacked W/D wouldn't",
+    "ENERGY STAR certified — 30% less water and energy vs older units",
+    "Smart Pairing automatically chooses dryer cycle from washer load"
+  ]}
+  cons={[
+    "Premium price vs separate W/D",
+    "Single failure point — service costs hit both functions"
+  ]}
+  href="https://www.amazon.com/s?k=LG+WashTower+ENERGY+STAR+single+unit"
+  region="us"
+/>
+
+<ProductBox
+  name="LG Smart Inverter Microwave (NeoChef Series)"
+  priceHint="$280-350 — daily-use kitchen upgrade"
+  pros={[
+    "Inverter technology — true variable power vs older pulse-on/off",
+    "More efficient cooking + cleaner reheats",
+    "Smart auto-cook settings reduce trial-and-error reheating time"
+  ]}
+  cons={[
+    "Higher upfront cost than basic countertop microwaves",
+    "App connectivity adds complexity for non-smart-home users"
+  ]}
+  href="https://www.amazon.com/s?k=LG+NeoChef+smart+inverter+microwave"
+  region="us"
+/>
+
+<ProductBox
+  name="Energy Star Certified Window AC (LG / Midea Dual Inverter)"
+  priceHint="$350-500 — efficient cooling for one room"
+  pros={[
+    "Dual inverter — 40% less energy than older single-stage units",
+    "Quiet operation (~44 dB) — bedroom-friendly",
+    "Smart features: schedule, eco mode, ENERGY STAR app integration"
+  ]}
+  cons={[
+    "Window-only — apartment dwellers may need adapters",
+    "Top-tier inverter models pricier than basic window ACs"
+  ]}
+  href="https://www.amazon.com/s?k=LG+Midea+dual+inverter+window+AC+ENERGY+STAR"
+  region="us"
+/>
+
+Start with the appliance that uses the most energy in your home (typically W/D or HVAC). Even a single upgrade pays back faster than a kitchen-wide overhaul.

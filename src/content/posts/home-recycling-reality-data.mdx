@@ -63,7 +63,7 @@ internalLinks:
 visualsCount: 7
 hasVideo: false
 wordCount: 2640
-affiliate: false
+affiliate: true
 faq:
   - question: "What percentage of plastic actually gets recycled?"
     answer: "Per EPA Facts and Figures 2024, only ~9% of all plastic ever produced has been recycled. For 2023 U.S. household plastic specifically, the rate is ~5-6% per Greenpeace's 'Circular Claims Fall Flat' report. The vast majority — 76% landfilled, 12% incinerated, 5% leaked to environment — is not recycled despite curbside collection. Only PET (#1, water bottles) and HDPE (#2, milk jugs) have meaningful recycling markets. Plastics #3-#7 are largely accepted at curbside but rejected at sorting facilities and landfilled. The 'chasing arrows' symbol does not mean recyclable in your area."
@@ -79,6 +79,9 @@ faq:
     answer: "Per Pew Charitable Trusts 'Breaking the Plastic Wave' analysis, the impact hierarchy: (1) Reduce consumption — buy less, buy used, repair vs replace. Most impactful. (2) Reuse — refillable bottles/containers. (3) Compost organic waste — biggest single household waste stream. (4) Recycle properly — glass, aluminum, paper, PET #1 only. Don't 'wishcycle.' (5) Avoid plastic packaging when possible. The hierarchy intentionally puts recycling fourth — consumption reduction has 5-10x the impact of recycling per Pew analysis."
 draft: false
 ---
+
+import ProductBox from '../../components/ProductBox.astro';
+import Aff from '../../components/Aff.astro';
 
 The gap between what household recycling collects and what actually gets recycled is one of the most documented and least known facts in sustainability. Per EPA, Greenpeace, and Basel Action Network research, only ~5-9% of household plastic gets actually recycled despite ~30%+ being collected. This article walks through the actual data on what works, what doesn't, and where to focus environmental effort.
 
@@ -395,3 +398,57 @@ Real recycling impact:
 Don't feel guilty about plastics not recycling — that's an industry failure, not your failure. Focus environmental effort on consumption reduction, reuse, and composting where you have actual leverage.
 
 For complementary content, see [reading sustainability labels](/posts/reading-sustainability-labels).
+
+## Recycling tools that actually move the needle
+
+EPA data shows household compliance rises significantly when sorting infrastructure makes the right choice easier than the wrong one. These three products cover the biggest behavior gaps in typical kitchens and home offices.
+
+<ProductBox
+  name="simplehuman 58 Liter Dual Compartment Step Can"
+  priceHint="$200-260 — separates trash and recycling at the source"
+  pros={[
+    "Two-bin design forces sorting at the moment of disposal",
+    "Soft-close lid, fingerprint-proof stainless, 5-year warranty",
+    "Custom-fit liner system reduces bag-bunching"
+  ]}
+  cons={[
+    "Premium pricing vs basic dual-bin alternatives",
+    "Proprietary liners cost more than store-brand bags"
+  ]}
+  href="https://www.amazon.com/s?k=simplehuman+58+liter+dual+compartment+step+can"
+  region="us"
+/>
+
+<ProductBox
+  name="Utopia Kitchen Compost Bin for Kitchen Countertop"
+  priceHint="$30-45 — food scraps without odor"
+  pros={[
+    "1.3 gallon capacity holds typical weekly food scraps",
+    "Charcoal filter eliminates odors between empties",
+    "Stainless steel exterior fits modern kitchens"
+  ]}
+  cons={[
+    "Filter needs replacement every 4-6 months",
+    "Capacity slightly small for 4+ person households"
+  ]}
+  href="https://www.amazon.com/s?k=Utopia+Kitchen+compost+bin+countertop"
+  region="us"
+/>
+
+<ProductBox
+  name="Stackable Recycling Bin System (3-Tier with Labels)"
+  priceHint="$80-130 — multi-stream sorting"
+  pros={[
+    "Stackable 3-tier holds paper, plastic, and glass separately",
+    "Pre-printed labels reduce family-member sorting errors",
+    "Footprint matches small utility closet or pantry corner"
+  ]}
+  cons={[
+    "Requires dedicated floor space (closet or laundry room)",
+    "Empty individually — no shared liner approach"
+  ]}
+  href="https://www.amazon.com/s?k=stackable+recycling+bin+3+tier+labeled"
+  region="us"
+/>
+
+Start with the simplehuman dual at the most-used trash point — it produces the biggest behavior change for the least friction. Add the compost bin only if you already process food waste regularly.

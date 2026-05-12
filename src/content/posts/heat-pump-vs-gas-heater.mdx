@@ -1,0 +1,187 @@
+---
+title: "Heat Pump vs Gas Heater — DOE Efficiency Data and IRA Tax Credit Math"
+description: "Heat pumps vs gas furnaces: DOE efficiency comparisons, real installation costs, Inflation Reduction Act tax credits, and which households should upgrade."
+pubDate: 2026-05-12
+updatedDate: 2026-05-12
+category: "Energy Efficiency"
+tags: ["heat-pump", "gas-furnace", "DOE", "IRA", "HVAC", "efficiency"]
+heroImage: "/images/illustrations/glt-c2-heatpump-hero.png"
+schemaType: "Article"
+sources:
+  - title: "DOE — Heat Pump Systems"
+    url: "https://www.energy.gov/energysaver/heat-pump-systems"
+    publication: "U.S. Department of Energy"
+    year: "2024"
+  - title: "ENERGY STAR — Heat Pumps"
+    url: "https://www.energystar.gov/products/heat_pumps"
+    publication: "ENERGY STAR / EPA"
+    year: "2024"
+  - title: "IRS — Energy Efficient Home Improvement Credit"
+    url: "https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit"
+    publication: "Internal Revenue Service"
+    year: "2024"
+  - title: "RMI — Heat Pump Economics"
+    url: "https://rmi.org/"
+    publication: "Rocky Mountain Institute"
+    year: "2024"
+  - title: "NEEP — Cold Climate Heat Pump List"
+    url: "https://neep.org/heating-electrification/ccashp-specification-product-list"
+    publication: "Northeast Energy Efficiency Partnerships"
+    year: "2024"
+  - title: "Consumer Reports — Heat Pumps"
+    url: "https://www.consumerreports.org/cro/heat-pumps.htm"
+    publication: "Consumer Reports"
+    year: "2024"
+  - title: "ACEEE — Heat Pump Standards"
+    url: "https://www.aceee.org/topic/heat-pumps"
+    publication: "American Council for an Energy-Efficient Economy"
+    year: "2024"
+  - title: "Wirecutter — Best Heat Pumps"
+    url: "https://www.nytimes.com/wirecutter/reviews/best-heat-pumps/"
+    publication: "Wirecutter (NYT)"
+    year: "2024"
+  - title: "EnergySage — Heat Pump ROI"
+    url: "https://www.energysage.com/heating-cooling/heat-pumps/"
+    publication: "EnergySage"
+    year: "2024"
+internalLinks:
+  - "/posts/led-vs-cfl-bulbs-data"
+  - "/posts/energy-star-appliances-roi"
+  - "/category/energy-efficiency"
+visualsCount: 5
+hasVideo: false
+wordCount: 2000
+affiliate: true
+faq:
+  - question: "Do heat pumps work in cold climates?"
+    answer: "Yes — modern cold-climate heat pumps (Mitsubishi Hyper-Heat, Fujitsu RLS3H, Daikin LV-series) maintain heating capacity down to -15°F to -22°F. Per NEEP Cold Climate Heat Pump list and field testing, COP (coefficient of performance) at 5°F is 2.0-2.5, meaning they still deliver 2-2.5x more heat per kWh than electric resistance heating. Below -15°F, supplemental electric or gas backup typically engages but kicks in less than 5% of heating hours even in northern climates."
+  - question: "What's the actual installation cost?"
+    answer: "Per RMI and Consumer Reports surveys, full home heat pump installation runs $10,000-25,000 depending on system type, sizing, and home configuration. Ducted central heat pumps (replacing existing AC + furnace) are $12,000-18,000. Ductless mini-split systems are $4,000-7,000 per zone for 3-4 zones typically. Installation cost varies significantly by region — costs in the Northeast and West Coast tend higher, while Texas and Southeast are lower. Heat pump water heaters add $3,000-5,000."
+  - question: "What does the Inflation Reduction Act provide for heat pumps?"
+    answer: "Substantial. Per IRS guidance and DOE Home Energy Rebate programs: federal tax credit of 30% up to $2,000 for heat pump installation (no income limit). HEEHRA program provides up to $8,000 rebate for income-qualified households (under 150% area median income). Heat pump water heater: 30% tax credit up to $2,000. State and utility incentives often add $1,000-3,000. Combined incentives can reduce typical $15,000 installation to $5,000-9,000 net cost."
+  - question: "Heat pump vs gas — which is cheaper to operate?"
+    answer: "Depends on local electricity and gas prices. Per DOE energy cost analysis: heat pumps with COP 3.0 cost equivalent to natural gas at 80% AFUE when electricity is $0.15/kWh and gas is $1.50/therm. In states with cheap electricity (Washington, Idaho, much of South) and average gas prices, heat pumps are 20-40% cheaper to operate. In Northeast with expensive electricity ($0.25+/kWh) and cheap gas, gas heaters operate cheaper. Heat pumps almost always win on total cost when including AC savings (heat pumps provide cooling too) and federal credits."
+  - question: "Does a heat pump replace my AC too?"
+    answer: "Yes — that's a major advantage. Heat pumps are essentially reversible air conditioners. The same unit provides cooling in summer and heating in winter. If your AC is 10+ years old and you need replacement, the incremental cost of upgrading to a heat pump (vs a new AC + keeping gas furnace) is small. Per ENERGY STAR analysis, the heat pump premium over equivalent AC is $1,500-3,000, fully offset by federal tax credit plus eliminated future furnace replacement."
+draft: true
+---
+
+import ProductBox from '../../components/ProductBox.astro';
+import Aff from '../../components/Aff.astro';
+
+Heat pumps have moved from niche technology to mainstream HVAC option in U.S. homes. Per DOE Residential Energy Consumption Survey data, heat pump installations grew 38% from 2018 to 2023, accelerated by the Inflation Reduction Act tax credits and significant improvements in cold-climate performance. For households with aging gas furnaces, aging air conditioners, or both, heat pumps deserve serious consideration.
+
+This article uses DOE heat pump specifications, IRS Inflation Reduction Act guidance, Consumer Reports installation surveys, and Wirecutter performance testing to compare heat pumps against gas furnaces. Topics include real-world efficiency, cold-climate performance, installation costs, IRA incentive math, and which households are best candidates for upgrading.
+
+For complementary content, see [LED vs CFL bulbs data](/posts/led-vs-cfl-bulbs-data) and [energy star appliances ROI](/posts/energy-star-appliances-roi).
+
+## How heat pumps work
+
+Per DOE technical literature, heat pumps don't generate heat — they move it. Using refrigerant cycles (compression and expansion), they extract heat from outdoor air (or ground, in geothermal systems) and transfer it indoors. The same process runs in reverse for cooling, identical to standard air conditioners.
+
+The key metric is Coefficient of Performance (COP) — the ratio of heat output to electricity input. Modern heat pumps achieve COP 2.5-4.0 at moderate temperatures, meaning 1 kWh of electricity delivers 2.5-4 kWh of heat. By comparison, electric resistance heating has COP 1.0 (1:1 ratio), and gas furnaces effectively have AFUE 80-97% (i.e., 80-97% of gas energy delivered as heat).
+
+### Why heat pumps usually win on energy
+
+Even with COP dropping at low temperatures, heat pumps remain more energy-efficient than gas at moderate-to-mild temperatures (above 35°F). The annual average COP in most U.S. climates falls between 2.5-3.5, putting heat pumps well ahead of gas on energy use per BTU of heat delivered.
+
+## Cold-climate performance
+
+The single largest objection to heat pumps used to be cold-weather performance. Per NEEP (Northeast Energy Efficiency Partnerships) certification and Consumer Reports field testing, modern cold-climate heat pumps have largely solved this.
+
+Cold-climate certified units (Mitsubishi Hyper-Heat, Fujitsu RLS3H, Daikin LV-series, LG Multi-V, Carrier Greenspeed) maintain rated heating capacity down to 5°F-22°F and continue operating efficiently below that with reduced capacity. Per NEEP field data:
+
+At 47°F (mild winter): COP 3.5-4.5 typical
+At 17°F (moderate cold): COP 2.5-3.2
+At 5°F (cold): COP 1.8-2.4
+At -13°F (very cold): COP 1.4-1.8
+
+For comparison, electric resistance heating has COP 1.0 at all temperatures. Even at -13°F, a cold-climate heat pump delivers 40-80% more heat per kWh than baseboard heating.
+
+## Cost analysis
+
+<ProductBox
+  name="Mitsubishi Hyper-Heat Ductless Mini-Split — 18,000 BTU"
+  priceHint="$3,500-5,000 (unit only) — $7,500-10,500 installed"
+  pros={["Operates efficiently to -22°F", "Inverter-driven — variable speed", "Quiet operation — 21 dBA indoor", "ENERGY STAR Most Efficient certified"]}
+  cons={["Premium price vs conventional AC", "Professional installation required", "Single-zone limitation"]}
+  href="https://amzn.to/3sample15"
+  region="US"
+  ctaText="View on Amazon"
+/>
+
+For a typical 2,000 sq ft home, full heat pump installation pricing ranges based on system type. Central ducted heat pump (replacing existing AC + furnace) costs $12,000-18,000 installed. Ductless mini-split for 3-4 zones runs $15,000-25,000. Heat pump water heater addition is $3,000-5,000. Geothermal ground-source ranges $25,000-45,000 (highest efficiency, longest payback).
+
+### IRA tax credits and rebates
+
+Per IRS Energy Efficient Home Improvement Credit guidance:
+
+**Federal tax credit (no income limit)**: 30% of installation cost up to $2,000 for heat pumps. Available 2023-2032.
+
+**HEEHRA program (income-qualified)**: Up to $8,000 rebate for households under 150% area median income. Implementation varies by state — check your state energy office.
+
+**State and utility incentives**: Often add $1,000-3,000. Massachusetts Mass Save, NY-State, Cali, and Northwest Energy Efficiency Alliance offer the most generous programs.
+
+Combined, typical $15,000 installation can drop to $5,000-9,000 net for moderate-income households or $11,000-13,000 for higher-income (still receiving federal credit).
+
+## Operating cost comparison
+
+Per DOE Energy Cost Calculator and EIA fuel price data, monthly operating costs for heating depend heavily on local electricity and gas prices.
+
+Sample comparison for 2,000 sq ft home in Northeast climate (5,500 heating degree days/year):
+
+**Old gas furnace (80% AFUE)**: $1,200-1,500/year heating
+**New gas furnace (95% AFUE)**: $1,000-1,250/year
+**Heat pump (COP 2.8 annual avg)**: $1,100-1,400/year heating
+
+The heat pump usually breaks even on heating-only operating cost vs efficient gas in Northeast. The win comes from cooling savings (heat pumps replace AC too) and federal credits offsetting installation premium.
+
+In Southern climates with cheaper electricity and milder winters, heat pumps win on every metric — lower install cost (smaller capacity needed), much lower operating cost, and built-in AC.
+
+## Ducted vs ductless
+
+The two main heat pump configurations:
+
+**Ducted central**: Single outdoor unit + air handler in basement/attic + existing ductwork. Best for homes with existing forced-air system. Total cost $12,000-18,000. Whole-home heating/cooling, single thermostat.
+
+**Ductless mini-split**: Outdoor unit + 1-5 indoor heads on walls. No ductwork required. Best for homes without ducts, additions, or zoned control needs. Total cost $4,000-7,000 per zone (typically 3-4 zones for whole home). Higher efficiency than ducted (no duct losses).
+
+<ProductBox
+  name="Pioneer Multi Zone Ductless Mini Split — 2-Zone — 12K + 12K BTU"
+  priceHint="$2,200-2,800 (DIY kit)"
+  pros={["Pre-charged lines for DIY installation", "Inverter-driven efficiency", "ENERGY STAR certified", "Cooling and heating in one system"]}
+  cons={["Not cold-climate rated below 5°F", "DIY void warranty if installed improperly", "2-zone limit"]}
+  href="https://amzn.to/3sample16"
+  region="US"
+  ctaText="View on Amazon"
+/>
+
+Choice depends on existing infrastructure. Homes with quality ductwork should consider ducted heat pump (cheaper overall). Homes without ducts or with poor duct insulation often do better with mini-splits.
+
+## Heat pump water heaters
+
+The often-overlooked complement to space heating. Heat pump water heaters (Rheem ProTerra, AO Smith Voltex, GE GeoSpring) use the same heat-extraction principle to heat domestic water at COP 3-4, vs COP 1.0 for electric resistance and 70-80% efficiency for gas water heaters.
+
+Per ENERGY STAR analysis, heat pump water heaters save $300-500/year for an average household compared to electric resistance and $50-200/year vs gas. Installation cost is $3,000-5,000 vs $1,500-2,500 for conventional gas. Federal tax credit covers 30% up to $2,000.
+
+## When NOT to switch
+
+Heat pumps aren't right for every situation. Cases where keeping or installing gas may be better include: very cheap natural gas service in your region (under $1.00/therm) combined with expensive electricity (over $0.25/kWh); home situated for solar PV that pairs better with gas heating; remote location where electric grid reliability is poor; HVAC budget so tight that mid-tier gas furnace beats inadequately sized heat pump.
+
+For most U.S. homes with average rates and adequate budget, the heat pump case is strong. The exceptions are narrower than they used to be.
+
+## Workflow for upgrade decision
+
+A practical evaluation sequence: confirm existing AC age (replace at 10-15 years anyway), confirm gas furnace age (replace at 15-25 years), get quotes from 2-3 HVAC contractors (heat pump-specialized contractor preferred), calculate net cost after federal IRA credit and state incentives, compare 10-year total cost of operation (install + energy) for heat pump vs gas + AC replacement.
+
+Most households find heat pump comes out ahead financially over 10 years when properly accounting for AC replacement avoided.
+
+## Bottom line
+
+For households with aging HVAC (15+ year furnaces or ACs at end of life) and access to federal IRA incentives, heat pumps are the right replacement choice in most cases. The combination of efficient operation, AC integration, and significant federal/state credits typically wins on total cost over a 10-year horizon.
+
+Cold climates require cold-climate certified units (Mitsubishi Hyper-Heat, Fujitsu, Daikin) — confirm NEEP certification before purchase. Backup electric or gas heating below -15°F is common but kicks in rarely.
+
+For specific upgrade decisions, get quotes from 2-3 heat pump-specialized HVAC contractors and apply the full IRA + state incentive math before deciding.
+
+For complementary reading, see [LED vs CFL bulbs data](/posts/led-vs-cfl-bulbs-data), [energy star appliances ROI](/posts/energy-star-appliances-roi), and the [energy efficiency category](/category/energy-efficiency).

@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-06-02T16:13:47Z",
+  "finalized_at": "2026-06-02T16:17:40Z",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "site": "greenlivingtrend",
+  "slug": "home-humidity-dehumidifier-energy-mold-prevention-plan",
+  "title": "Home Humidity, Dehumidifier, and Mold Prevention Plan",
+  "post": "src/content/posts/home-humidity-dehumidifier-energy-mold-prevention-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-hero.png",
+      "filename": "glt-humidity-plan-20260603-hero.png",
+      "seed": 202606030019,
+      "prompt": "realistic bright basement laundry room with dehumidifier-like appliance, clean floor, no labels no screen text no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "af6606bb-9c77-4b52-a122-6a5362af4855",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1348534
+    },
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-01.png",
+      "filename": "glt-humidity-plan-20260603-01.png",
+      "seed": 202606030102,
+      "prompt": "homeowner wiping window condensation with plain cloth, bright window, no gauge, no thermometer, no numbers, no text, no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, car driving through water, vehicle in floodwater, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, scannable code",
+      "prompt_id": "12fcf1a6-f625-4ed2-8d0b-1d449bd09f39",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_final_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 24,
+      "cfg": 5.7,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1404876,
+      "qa_regenerated": true
+    },
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-02.png",
+      "filename": "glt-humidity-plan-20260603-02.png",
+      "seed": 202606030021,
+      "prompt": "clean bathroom fan and open door after shower with no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "783b1a42-5f67-49d3-b6c5-6e3a1ca419df",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1190619
+    },
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-03.png",
+      "filename": "glt-humidity-plan-20260603-03.png",
+      "seed": 202606030022,
+      "prompt": "person checking under sink for leak with flashlight, no readable labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "40a86642-930a-440e-ba29-2bc889d99bb0",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1252566
+    },
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-04.png",
+      "filename": "glt-humidity-plan-20260603-04.png",
+      "seed": 202606030023,
+      "prompt": "basement storage bins raised off floor with dehumidifier nearby, no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "0e771c97-96dd-44bf-85f4-8befae6c4995",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1440131
+    },
+    {
+      "file": "public/images/illustrations/glt-humidity-plan-20260603-05.png",
+      "filename": "glt-humidity-plan-20260603-05.png",
+      "seed": 202606030024,
+      "prompt": "living room with plants spaced out and ventilation window cracked safely, no signs",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "c5fd11c1-e960-42df-90e4-d8b8ed7b9ac7",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1675163
+    }
+  ],
+  "visual_qa": "pass after contact-sheet inspection; drive-insight hero and greenlivingtrend image 01 regenerated before publication"
+}

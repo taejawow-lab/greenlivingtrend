@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-06-03T16:13:44Z",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "site": "greenlivingtrend",
+  "slug": "smart-thermostat-summer-energy-comfort-setup",
+  "title": "Smart Thermostat Summer Energy and Comfort Setup",
+  "post": "src/content/posts/smart-thermostat-summer-energy-comfort-setup.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-hero.png",
+      "filename": "glt-smart-thermostat-20260604-hero.png",
+      "seed": 202606040019,
+      "prompt": "realistic hallway wall with modern blank thermostat and sunlit living room, no screen text no numbers no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "5b4c4e9d-65d9-462c-ac3c-01d000f0ef50",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 982354
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-01.png",
+      "filename": "glt-smart-thermostat-20260604-01.png",
+      "seed": 202606049001,
+      "prompt": "wide realistic home hallway with adult hand near a completely blank unlit thermostat-like wall control, no display, no digits, no logo, no buttons with labels, natural light, safe scene",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, electrical hazards, fake thermostat display, fake bill, document text, blurry, low resolution, generic stock art, placeholder",
+      "prompt_id": "7229597b-eb37-4ee1-aafb-4d6da07d4692",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_finalqa_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 24,
+      "cfg": 5.0,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1154714,
+      "qa_replacement": true
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-02.png",
+      "filename": "glt-smart-thermostat-20260604-02.png",
+      "seed": 202606040021,
+      "prompt": "sunny living room with closed blinds ceiling fan and no text no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "a2bd3173-6362-45e5-b049-7e3a9bc29c3c",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1709024
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-03.png",
+      "filename": "glt-smart-thermostat-20260604-03.png",
+      "seed": 202606040022,
+      "prompt": "family cooling zone setup in one room with water glasses and fan, blank devices no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "73fa60e5-9316-40ed-9099-af08049024b9",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1452642
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-04.png",
+      "filename": "glt-smart-thermostat-20260604-04.png",
+      "seed": 202606049002,
+      "prompt": "realistic energy planning scene with closed plain notebook, blank laptop screen, plain thermostat device turned away, no papers, no readable text, no numbers, no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, electrical hazards, fake thermostat display, fake bill, document text, blurry, low resolution, generic stock art, placeholder",
+      "prompt_id": "85cd2ffb-df94-418a-8ed8-6731ffacc7d2",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_finalqa_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 24,
+      "cfg": 5.0,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1346027,
+      "qa_replacement": true
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-thermostat-20260604-05.png",
+      "filename": "glt-smart-thermostat-20260604-05.png",
+      "seed": 202606040024,
+      "prompt": "bedroom evening comfort setup with curtains and quiet fan no screens no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "edc9752c-eef7-4356-83f3-84cfb1723701",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1471002
+    }
+  ],
+  "qa": "visual contact sheet reviewed; final retained images only"
+}

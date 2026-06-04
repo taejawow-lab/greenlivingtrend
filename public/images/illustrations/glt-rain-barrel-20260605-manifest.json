@@ -1,0 +1,136 @@
+{
+  "site": "greenlivingtrend",
+  "date": "2026-06-05",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-hero.png",
+      "filename": "glt-rain-barrel-20260605-hero.png",
+      "seed": 202606050019,
+      "prompt": "realistic backyard rain barrel under downspout with garden beds no labels no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "66448dc1-f233-4655-88c0-152de126c2cc",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2408404
+    },
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-01.png",
+      "filename": "glt-rain-barrel-20260605-01.png",
+      "seed": 202606050020,
+      "prompt": "covered rain barrel with screened inlet beside house and plants no brand no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "3c57fb27-d10e-4b4b-b3de-04e52a4d7347",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2244929
+    },
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-02.png",
+      "filename": "glt-rain-barrel-20260605-02.png",
+      "seed": 202606050021,
+      "prompt": "gardener watering drought tolerant plants with plain watering can no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "14698344-1a38-4c94-93ba-b1c614642575",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2215768
+    },
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-03.png",
+      "filename": "glt-rain-barrel-20260605-03.png",
+      "seed": 202606050022,
+      "prompt": "overflow hose routed away from foundation into gravel garden no signs no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "aeba386a-9875-4a11-9c62-c0032347b43d",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2858307
+    },
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-04.png",
+      "filename": "glt-rain-barrel-20260605-04.png",
+      "seed": 202606059003,
+      "prompt": "close view of covered rain barrel lid with fine mesh screen and clean downspout connection, no insects, no labels, no readable text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "148073b7-d697-4e2e-babf-b1748edab0f2",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_qa_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2343732,
+      "qa_regenerated": true
+    },
+    {
+      "file": "public/images/illustrations/glt-rain-barrel-20260605-05.png",
+      "filename": "glt-rain-barrel-20260605-05.png",
+      "seed": 202606050024,
+      "prompt": "healthy mulched garden bed after rain barrel watering no labels no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "da168abf-37d7-44f4-a908-44296157b767",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2630762
+    }
+  ]
+}

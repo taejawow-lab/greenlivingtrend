@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-06-05T16:14:36Z",
+  "batch": "A",
+  "date": "2026-06-06",
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels"
+  },
+  "site": "greenlivingtrend",
+  "slug": "portable-ac-fan-heat-wave-energy-safety-plan",
+  "title": "Portable AC and Fan Heat-Wave Plan: Energy, Comfort, and Safety",
+  "post": "src/content/posts/portable-ac-fan-heat-wave-energy-safety-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-hero.png",
+      "filename": "glt-portable-ac-fan-20260606-hero.png",
+      "prompt": "realistic indoor portable air conditioner with vent hose installed in window, floor fan safely placed, closed curtains, clear walkway, no visible cords, blank controls turned away, no text no logos",
+      "seed": 202606061105,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3dfdb249-bbf5-4bc7-95bd-2953135b124b",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_regen_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1661470,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet QA to remove text/logo/accuracy risk."
+    },
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-01.png",
+      "filename": "glt-portable-ac-fan-20260606-01.png",
+      "prompt": "realistic room air conditioner setup with closed curtains, clear walkway, blank control panel, no text",
+      "seed": 202606060620,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "80c55466-4ced-4fe4-a9bf-bbf052c825a2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1257456,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-02.png",
+      "filename": "glt-portable-ac-fan-20260606-02.png",
+      "prompt": "realistic fan and shade cooling scene with plant, water glass, no labels, safe cord routing",
+      "seed": 202606060621,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f6487c7f-ea6d-440a-be3d-66d0d09336f8",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2047474,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-03.png",
+      "filename": "glt-portable-ac-fan-20260606-03.png",
+      "prompt": "realistic filter cleaning prep with plain removable filter, gloves, table, no readable brand marks",
+      "seed": 202606060622,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "97ec1cf6-8fa2-45be-93bd-27dc1cce0f15",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1694529,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-04.png",
+      "filename": "glt-portable-ac-fan-20260606-04.png",
+      "prompt": "realistic home cooling planning flat lay with blank thermostat face turned away, plain notecards with no writing, closed curtains, small fan, no numbers, no readable text, no logos",
+      "seed": 202606061106,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f5a6dc76-f304-47fd-bbf1-e16901d6d2c0",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_regen_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1573774,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet QA to remove text/logo/accuracy risk."
+    },
+    {
+      "file": "public/images/illustrations/glt-portable-ac-fan-20260606-05.png",
+      "filename": "glt-portable-ac-fan-20260606-05.png",
+      "prompt": "realistic cool room safety scene with elderly chair setup, water, fan safely placed, no text",
+      "seed": 202606060624,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "5ae7525e-a170-4b26-a946-12f85a27932b",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1709919,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260606-greenlivingtrend-contact-sheet.jpg",
+  "sources": [
+    "https://www.energy.gov/energysaver/room-air-conditioners",
+    "https://www.energy.gov/energysaver/programmable-thermostats",
+    "https://www.cdc.gov/heat-health/about/index.html",
+    "https://www.weather.gov/safety/heat",
+    "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fire-Safety-Information-Center",
+    "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality",
+    "https://www.energystar.gov/products/room_air_conditioners",
+    "https://www.energy.gov/energysaver/fans-cooling"
+  ],
+  "visual_qa_summary": "Final contact sheet inspected after QA replacements; accepted GTI13 raster PNGs are topic-relevant, 1536x864, and no SVG/placeholders counted.",
+  "adSense_readiness": "Article uses official/current sources, non-affiliate helpful-content framing, internal links, FAQ, native tables, and six GTI13 raster images with visual QA."
+}

@@ -1,0 +1,492 @@
+{
+  "generated_at": "2026-06-06T16:37:17Z",
+  "batch": "A-repair",
+  "date": "2026-06-07",
+  "skip_root_cause": "Original 2026-06-07 batch A generated drive-insight flash-flood and greenlivingtrend humidity topics that overlapped strongly with existing 2026-06-03 posts, so duplicate-topic quality gate prevented publishing them. This repair uses distinct non-overlapping topics and records source reachability before build/deploy.",
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "sentinel_url": "http://192.168.50.30:9199/status",
+    "comfy_url": "http://192.168.50.29:8188",
+    "services": {
+      "comfyui_8188": true,
+      "sentinel_9199": false
+    },
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1",
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ],
+    "queue": {
+      "queue_running": [],
+      "queue_pending": []
+    }
+  },
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "queue_at_start": {
+    "queue_running": [],
+    "queue_pending": []
+  },
+  "system_stats": {
+    "system": {
+      "os": "win32",
+      "ram_total": 68466884608,
+      "ram_free": 37319610368,
+      "comfyui_version": "0.20.1",
+      "required_frontend_version": "1.43.17",
+      "installed_templates_version": "0.9.72",
+      "required_templates_version": "0.9.72",
+      "python_version": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "pytorch_version": "2.6.0+cu124",
+      "embedded_python": false,
+      "argv": [
+        "main.py",
+        "--listen",
+        "0.0.0.0",
+        "--port",
+        "8188",
+        "--enable-cors-header",
+        "*"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ]
+  },
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels"
+  },
+  "sites": {
+    "drive-insight": {
+      "slug": "hailstorm-driving-windshield-damage-decision-plan",
+      "title": "Hailstorm Driving and Windshield Damage Decision Plan",
+      "post": "src/content/posts/hailstorm-driving-windshield-damage-decision-plan.mdx",
+      "assets": [
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-hero.png",
+          "filename": "di-hailstorm-windshield-20260607-hero.png",
+          "prompt": "realistic parked car under covered gas station canopy during hailstorm aftermath, small ice pellets on ground, windshield intact, no logos no readable signs no license plate",
+          "seed": 202606071001,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "f1eea3d9-8440-4c8c-ad22-df2b0acae11c",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_hero_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 2010316,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        },
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-01.png",
+          "filename": "di-hailstorm-windshield-20260607-01.png",
+          "prompt": "realistic driver view of stormy road from parked car with blank dashboard, wipers visible, no readable signs no numbers",
+          "seed": 202606071002,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "cb6b7228-c646-431b-95e5-6c3339fb3f80",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_01_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 1800721,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        },
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-02.png",
+          "filename": "di-hailstorm-windshield-20260607-02.png",
+          "prompt": "realistic safe pull-off scene with car fully off roadway under overpass approach but not blocking traffic, storm clouds, no text",
+          "seed": 202606071003,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "5ddbd074-cfb5-474c-9ba2-96e1b75cf7e4",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_02_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 1471291,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        },
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-03.png",
+          "filename": "di-hailstorm-windshield-20260607-03.png",
+          "prompt": "realistic windshield inspection after hail with small crack visible, gloved hand, no labels no license plate",
+          "seed": 202606071004,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "953effdd-c425-45c0-ad25-ddef55d3faff",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_03_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 2323462,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        },
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-04.png",
+          "filename": "di-hailstorm-windshield-20260607-04.png",
+          "prompt": "realistic emergency kit for storm driving with flashlight, phone blank screen, towel, water, no text no logos",
+          "seed": 202606071005,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "fac63985-55e8-4ab4-a3ab-39f0da6a1054",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_04_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 2118609,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        },
+        {
+          "file": "public/images/illustrations/di-hailstorm-windshield-20260607-05.png",
+          "filename": "di-hailstorm-windshield-20260607-05.png",
+          "prompt": "realistic post-storm vehicle walkaround in driveway with plain notebook closed, no readable labels no brand marks",
+          "seed": 202606071006,
+          "dimensions": [
+            1536,
+            864
+          ],
+          "prompt_id": "934a36ba-7fb6-41aa-a7c9-d79b9c34dd9a",
+          "comfy_output": {
+            "filename": "hermes_batch_a_repair_20260607_drive-insight_05_00001_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "status": "ok",
+          "width": 1536,
+          "height": 864,
+          "bytes": 2053555,
+          "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+          "steps": 24,
+          "cfg": 5.2,
+          "sampler": "dpmpp_2m",
+          "scheduler": "karras"
+        }
+      ],
+      "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260607-repair-drive-insight-contact-sheet.jpg",
+      "sources": [
+        "https://www.weather.gov/safety/thunderstorm",
+        "https://www.weather.gov/safety/lightning",
+        "https://www.nhtsa.gov/summer-driving-tips",
+        "https://www.nhtsa.gov/road-safety",
+        "https://www.ready.gov/car",
+        "https://www.ready.gov/thunderstorms-lightning",
+        "https://ops.fhwa.dot.gov/weather/",
+        "https://www.nhtsa.gov/risky-driving/distracted-driving"
+      ],
+      "source_reachability": [
+        {
+          "url": "https://www.weather.gov/safety/thunderstorm",
+          "status": 200
+        },
+        {
+          "url": "https://www.weather.gov/safety/lightning",
+          "status": 200
+        },
+        {
+          "url": "https://www.nhtsa.gov/summer-driving-tips",
+          "status": "ERR:HTTPError"
+        },
+        {
+          "url": "https://www.nhtsa.gov/road-safety",
+          "status": "ERR:HTTPError"
+        },
+        {
+          "url": "https://www.ready.gov/car",
+          "status": "ERR:HTTPError"
+        },
+        {
+          "url": "https://www.ready.gov/thunderstorms-lightning",
+          "status": "ERR:HTTPError"
+        },
+        {
+          "url": "https://ops.fhwa.dot.gov/weather/",
+          "status": 200
+        },
+        {
+          "url": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+          "status": "ERR:HTTPError"
+        }
+      ],
+      "visual_qa_summary": "Contact sheet created for mandatory visual inspection; images are GTI13 raster PNGs at 1536x864 with no SVG/placeholders counted."
+    }
+  },
+  "site": "greenlivingtrend",
+  "slug": "window-shade-cross-ventilation-heat-wave-plan",
+  "title": "Window Shade and Cross-Ventilation Heat-Wave Plan",
+  "post": "src/content/posts/window-shade-cross-ventilation-heat-wave-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-hero.png",
+      "filename": "glt-window-shade-ventilation-20260607-hero.png",
+      "prompt": "realistic living room with insulated curtains partly closed, ceiling fan, open interior doors, no readable labels no screens no logos",
+      "seed": 202606071007,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "23b038ee-f115-43f5-8ad6-3a86bfe99e29",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1611545,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-01.png",
+      "filename": "glt-window-shade-ventilation-20260607-01.png",
+      "prompt": "realistic morning window shade routine with curtains, blinds, sunlight controlled, no text no labels",
+      "seed": 202606071008,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "25d32d52-9a04-4089-a652-873064eab23c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1344762,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-02.png",
+      "filename": "glt-window-shade-ventilation-20260607-02.png",
+      "prompt": "realistic evening cross ventilation setup with two windows, fan safely placed, clear cord path, no text",
+      "seed": 202606071009,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "9d2e0ce5-2ffb-48d7-9c59-ff767555849f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1435562,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-03.png",
+      "filename": "glt-window-shade-ventilation-20260607-03.png",
+      "prompt": "realistic ceiling fan and thermostat coordination scene with blank thermostat face, no numbers no logos",
+      "seed": 202606071010,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3be5e86e-2dd6-4f6d-b695-a94efb94d62c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1632417,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-04.png",
+      "filename": "glt-window-shade-ventilation-20260607-04.png",
+      "prompt": "realistic indoor air quality decision scene with closed window during smoky day, blank air purifier, no text",
+      "seed": 202606071011,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "9634f3bc-2256-46d9-a454-a87fe8df8c0f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1323522,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-shade-ventilation-20260607-05.png",
+      "filename": "glt-window-shade-ventilation-20260607-05.png",
+      "prompt": "realistic heat wave room checklist with water glass, shaded chair, plain blank note cards, no writing",
+      "seed": 202606071012,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "210c2c92-27ff-4674-acf6-9d454304f674",
+      "comfy_output": {
+        "filename": "hermes_batch_a_repair_20260607_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1309636,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260607-repair-greenlivingtrend-contact-sheet.jpg",
+  "sources": [
+    "https://www.energy.gov/energysaver/energy-efficient-window-coverings",
+    "https://www.energy.gov/energysaver/passive-solar-home-design",
+    "https://www.energy.gov/energysaver/ventilation",
+    "https://www.energy.gov/energysaver/fans-cooling",
+    "https://www.cdc.gov/heat-health/about/index.html",
+    "https://www.weather.gov/safety/heat",
+    "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality",
+    "https://www.energy.gov/energysaver/programmable-thermostats"
+  ],
+  "source_reachability": [
+    {
+      "url": "https://www.energy.gov/energysaver/energy-efficient-window-coverings",
+      "status": 200
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/passive-solar-home-design",
+      "status": 200
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/ventilation",
+      "status": 200
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/fans-cooling",
+      "status": 200
+    },
+    {
+      "url": "https://www.cdc.gov/heat-health/about/index.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.weather.gov/safety/heat",
+      "status": 200
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality",
+      "status": 200
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/programmable-thermostats",
+      "status": 200
+    }
+  ],
+  "visual_qa_summary": "Contact sheet created for mandatory visual inspection; images are GTI13 raster PNGs at 1536x864 with no SVG/placeholders counted."
+}

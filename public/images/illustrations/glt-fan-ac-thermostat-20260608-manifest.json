@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-08",
+  "host": "gti13",
+  "endpoint_redacted": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "slug": "ceiling-fan-ac-thermostat-summer-comfort-plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-hero.png",
+      "status": "visual_qa_passed"
+    },
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-01.png",
+      "status": "visual_qa_passed"
+    },
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-02.png",
+      "status": "visual_qa_passed"
+    },
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-03.png",
+      "status": "visual_qa_passed"
+    },
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-04.png",
+      "status": "visual_qa_passed"
+    },
+    {
+      "file": "public/images/illustrations/glt-fan-ac-thermostat-20260608-05.png",
+      "status": "visual_qa_passed"
+    }
+  ],
+  "note": "Detailed prompt_id/seed provenance retained in batch reports; endpoint details redacted for user-facing reports."
+}

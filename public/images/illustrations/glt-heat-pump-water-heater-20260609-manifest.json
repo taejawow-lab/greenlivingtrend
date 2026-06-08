@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-06-08T22:46:43Z",
+  "site": "greenlivingtrend",
+  "slug": "heat-pump-water-heater-summer-basement-laundry-energy-plan",
+  "title": "Heat Pump Water Heater Summer Basement and Laundry Energy Plan",
+  "host": "GTI13 redacted",
+  "direct_comfyui": true,
+  "workflow": {
+    "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+    "width": 1536,
+    "height": 864,
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras"
+  },
+  "assets": [
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-hero.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-hero.png",
+      "bytes": 1223889,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-01.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-01.png",
+      "bytes": 1227883,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-02.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-02.png",
+      "bytes": 1644524,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-03.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-03.png",
+      "bytes": 1522505,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-04.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-04.png",
+      "bytes": 1248569,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "filename": "glt-heat-pump-water-heater-20260609-05.png",
+      "file": "public/images/illustrations/glt-heat-pump-water-heater-20260609-05.png",
+      "bytes": 1375639,
+      "published": true,
+      "dimensions": [
+        1536,
+        864
+      ]
+    }
+  ],
+  "visual_qa": "Final contact sheets inspected; retained images match MDX references and avoid topic-specific safety failures/readable procedural text.",
+  "contact_sheet": "reports/batch-a-20260609-greenlivingtrend-contact-sheet-final.jpg"
+}

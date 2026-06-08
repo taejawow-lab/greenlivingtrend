@@ -1,35 +1,46 @@
-/* greenlivingtrend.org design tokens — auto-generated 2026-05-08T03:42:19.297Z */
+/* greenlivingtrend.org — Ecological Ledger tokens */
 :root {
-  --color-background: 248 245 240;
-  --color-foreground: 45 42 34;
-  --color-primary: 92 124 78;
-  --color-primary-foreground: 255 255 255;
-  --color-accent: 168 136 100;
+  --color-background: 250 249 244;
+  --color-foreground: 15 26 19;
+  --color-primary: 27 48 34;
+  --color-primary-foreground: 250 249 244;
+  --color-accent: 184 107 78;
   --color-accent-foreground: 255 255 255;
-  --color-muted: 243 240 235;
-  --color-muted-foreground: 85 82 74;
-  --color-card: 248 245 240;
-  --color-card-foreground: 45 42 34;
-  --color-border: 125 122 114;
-  --color-input: 120 117 109;
-  --color-ring: 92 124 78;
-  --font-heading: "Plus Jakarta Sans", system-ui, sans-serif;
-  --font-body: "Plus Jakarta Sans", system-ui, sans-serif;
-  --font-display: "Fraunces", serif;
+  --color-muted: 239 238 233;
+  --color-muted-foreground: 67 72 67;
+  --color-card: 255 255 251;
+  --color-card-foreground: 15 26 19;
+  --color-border: 195 200 193;
+  --color-input: 115 121 115;
+  --color-ring: 27 48 34;
+  --font-heading: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
   --font-mono: "JetBrains Mono", "Fira Code", monospace;
-  --radius: 10px;
+  --radius: 12px;
+  --forest: #1b3022;
+  --forest-ink: #061b0e;
+  --ecru: #faf9f4;
+  --paper-dark: #eae7dc;
+  --sage: #56642b;
+  --sage-soft: #d6e7a1;
+  --terracotta: #b86b4e;
+  --ink-text: #0f1a13;
+  --transition-base: 180ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 [data-theme='dark'] {
-  --color-background: 31 29 23;
-  --color-foreground: 232 229 221;
-  --color-primary: 61 82 50;
-  --color-primary-foreground: 255 255 255;
-  --color-accent: 168 136 100;
-  --color-accent-foreground: 255 255 255;
-  --color-muted: 39 37 31;
-  --color-muted-foreground: 202 199 191;
-  --color-card: 36 34 28;
-  --color-card-foreground: 232 229 221;
-  --color-border: 172 169 161;
-  --color-input: 167 164 156;
+  --color-background: 24 33 26;
+  --color-foreground: 242 241 236;
+  --color-primary: 180 205 184;
+  --color-primary-foreground: 11 32 19;
+  --color-accent: 214 155 125;
+  --color-accent-foreground: 31 20 14;
+  --color-muted: 39 49 40;
+  --color-muted-foreground: 211 216 207;
+  --color-card: 30 41 32;
+  --color-card-foreground: 242 241 236;
+  --color-border: 98 112 98;
+  --color-input: 148 161 146;
+  --color-ring: 180 205 184;
 }

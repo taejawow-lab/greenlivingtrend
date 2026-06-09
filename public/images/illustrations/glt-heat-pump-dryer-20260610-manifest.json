@@ -1,0 +1,182 @@
+{
+  "generated_at": "2026-06-09T16:14:35Z",
+  "batch": "A",
+  "date": "2026-06-10",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "endpoint_redacted": "GTI13 direct ComfyUI endpoint recorded in root ops manifest; redacted for public report",
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1"
+  },
+  "site": "greenlivingtrend",
+  "post": "src/content/posts/heat-pump-dryer-summer-humidity-laundry-energy-plan.mdx",
+  "slug": "heat-pump-dryer-summer-humidity-laundry-energy-plan",
+  "title": "Heat Pump Dryer Summer Humidity Laundry Energy Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-hero.png",
+      "filename": "glt-heat-pump-dryer-20260610-hero.png",
+      "prompt": "realistic bright laundry room with heat pump dryer, drying rack, towels, dehumidifier-like plain appliance, no labels no exposed wiring",
+      "seed": 202606100119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f6dac3de-1404-4b2b-9347-fab0602173b5",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1499226,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-01.png",
+      "filename": "glt-heat-pump-dryer-20260610-01.png",
+      "prompt": "realistic laundry sorting scene with towels and lightweight clothes separated, no text labels no brand marks",
+      "seed": 202606100120,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "169a6b25-995d-477e-88e5-fb1176e8606f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1641230,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-02.png",
+      "filename": "glt-heat-pump-dryer-20260610-02.png",
+      "prompt": "realistic drying rack near window with good airflow and clear walkway, no cords across floor, no text",
+      "seed": 202606100121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3892b91c-7d8e-4a74-8265-462378277579",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1705372,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-03.png",
+      "filename": "glt-heat-pump-dryer-20260610-03.png",
+      "prompt": "realistic heat pump dryer door open with clean lint filter area, no labels no control panel text",
+      "seed": 202606100122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0ac11763-3f4d-499c-a6c3-6f93de2fd505",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1597439,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-04.png",
+      "filename": "glt-heat-pump-dryer-20260610-04.png",
+      "prompt": "realistic humidity-safe laundry room with plain dehumidifier and basket, no screens no numbers",
+      "seed": 202606100123,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "1422117e-fc10-4b29-9237-107b1097b291",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1576832,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-heat-pump-dryer-20260610-05.png",
+      "filename": "glt-heat-pump-dryer-20260610-05.png",
+      "prompt": "realistic evening laundry planning scene with blank cards and basket, no readable calendar no handwriting",
+      "seed": 202606100124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "b567c20e-9bb8-4bd2-b786-b9fd0278f103",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1571843,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Contact sheet created; accepted only after visual QA confirms no unsafe/text/UI artifacts."
+}

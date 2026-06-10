@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-06-10T16:14:21Z",
+  "batch": "A",
+  "date": "2026-06-11",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, exposed wires, raw meat beside produce, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, unsafe child restraint, child face closeup"
+  },
+  "endpoint": "REDACTED_DIRECT_GTI13",
+  "site": "greenlivingtrend",
+  "post": "src/content/posts/induction-cooktop-summer-kitchen-heat-energy-plan.mdx",
+  "slug": "induction-cooktop-summer-kitchen-heat-energy-plan",
+  "title": "Induction Cooktop Summer Kitchen Heat and Energy Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-hero.png",
+      "filename": "glt-induction-cooktop-20260611-hero.png",
+      "prompt": "realistic modern kitchen with induction cooktop, pot, open shaded window, range hood, blank controls, no readable labels no logos",
+      "seed": 202606110719,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "1295dc43-0eb5-4c35-85be-879c72ecb493",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1471149,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-01.png",
+      "filename": "glt-induction-cooktop-20260611-01.png",
+      "prompt": "realistic induction cooktop with pot and summer vegetables, blank control panel, no text no brand marks",
+      "seed": 202606110720,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "7edde2d8-08f4-49d7-829d-364aea612ebc",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1530691,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-02.png",
+      "filename": "glt-induction-cooktop-20260611-02.png",
+      "prompt": "realistic kitchen ventilation setup with range hood and shaded window, no labels no text",
+      "seed": 202606110721,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f9b667dd-868c-449e-a3da-4742a0f917d2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1595339,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-03.png",
+      "filename": "glt-induction-cooktop-20260611-03.png",
+      "prompt": "realistic cookware magnet test flat lay with plain pan and magnet, blank card, no readable text",
+      "seed": 202606110722,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f80921e8-49a9-4e0e-b57b-f83695b2a96e",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1637820,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-04.png",
+      "filename": "glt-induction-cooktop-20260611-04.png",
+      "prompt": "realistic induction cooktop and lidded pot meal prep with vegetables, blank dark appliance surfaces turned away, no control displays, safe clear counter, no text",
+      "seed": 202606111303,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "76838d2d-f1e4-4f86-9455-46f9a7c41318",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_fix_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1545761,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "greenlivingtrend",
+      "qa_replaced": true
+    },
+    {
+      "file": "public/images/illustrations/glt-induction-cooktop-20260611-05.png",
+      "filename": "glt-induction-cooktop-20260611-05.png",
+      "prompt": "realistic cool kitchen planning scene with curtains, fan safely away from stove, no cords across walkway, no text",
+      "seed": 202606110724,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "65777e6e-c864-4952-9ff0-82cb26c17d60",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1628907,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa": "Passed final contact-sheet QA after regeneration/exclusions noted in central report; no placeholder/SVG images counted."
+}

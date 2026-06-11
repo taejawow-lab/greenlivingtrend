@@ -99,24 +99,25 @@
     {
       "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-04.png",
       "filename": "glt-dishwasher-eco-cycle-20260612-04.png",
-      "prompt": "energy planning flat lay with blank utility bill shape, no readable numbers",
-      "seed": 202606120405,
-      "prompt_id": "00704337-22b7-4c60-896d-4e0aca000fdf",
+      "prompt": "dishwasher energy planning still life with blank colored cards, simple wooden tokens, plain measuring cup, clean countertop, no bills, no documents, no receipts, no printed text",
+      "seed": 202606129401,
+      "prompt_id": "6021cfb2-4faf-4ba6-a731-79a8ad424133",
       "dimensions": [
         1536,
         864
       ],
-      "bytes": 1944563,
+      "bytes": 1425469,
       "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
       "steps": 24,
       "cfg": 5.1,
       "sampler": "dpmpp_2m",
       "scheduler": "karras",
       "comfy_output": {
-        "filename": "hermes_batch_a_20260612_greenlivingtrend_04_00001_.png",
+        "filename": "hermes_batch_a_20260612_repair_greenlivingtrend_04_00001_.png",
         "subfolder": "",
         "type": "output"
-      }
+      },
+      "repair_note": "regenerated after visual QA rejected prior image for UI/document artifacts"
     },
     {
       "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-05.png",
@@ -141,6 +142,6 @@
       }
     }
   ],
-  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260612-greenlivingtrend-contact-sheet.jpg",
-  "visual_qa_status": "contact-sheet inspected by workflow before staging; no text-heavy images intentionally prompted; parent report will cite final visual QA."
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260612-greenlivingtrend-contact-sheet-final.jpg",
+  "visual_qa_status": "final contact sheet regenerated after visual QA repair; rejected UI/document artifact image replaced."
 }

@@ -1,0 +1,146 @@
+{
+  "site": "greenlivingtrend",
+  "date": "2026-06-12",
+  "host": "gti13",
+  "endpoint": "direct ComfyUI (redacted in report)",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "article": "dishwasher-eco-cycle-energy-water-savings-plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-hero.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-hero.png",
+      "prompt": "modern kitchen dishwasher with door partly open, clean dishes, blank controls, no brand marks",
+      "seed": 202606120401,
+      "prompt_id": "31873c5c-136c-467e-9d66-1d63464a4a4f",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1635329,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-01.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-01.png",
+      "prompt": "dishwasher filter cleaning setup with plain filter on towel, no labels",
+      "seed": 202606120402,
+      "prompt_id": "48f517a2-b80a-4317-a482-0b8635626af5",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1933786,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-02.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-02.png",
+      "prompt": "full dishwasher loading scene with plates properly spaced, no text",
+      "seed": 202606120403,
+      "prompt_id": "46120066-748b-4bd6-bd3c-389527fa12e0",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1762344,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-03.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-03.png",
+      "prompt": "air drying kitchen scene with dishwasher open slightly, no steam labels, no people",
+      "seed": 202606120404,
+      "prompt_id": "8a66bfe8-d880-4484-98f9-e6788ac7aaf7",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1370859,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-04.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-04.png",
+      "prompt": "energy planning flat lay with blank utility bill shape, no readable numbers",
+      "seed": 202606120405,
+      "prompt_id": "00704337-22b7-4c60-896d-4e0aca000fdf",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1944563,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-dishwasher-eco-cycle-20260612-05.png",
+      "filename": "glt-dishwasher-eco-cycle-20260612-05.png",
+      "prompt": "eco kitchen sink and dishwasher area with clean counter, plant, no labels",
+      "seed": 202606120406,
+      "prompt_id": "fc270547-9c55-4398-aa55-5bf85d102f95",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1656462,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260612-greenlivingtrend-contact-sheet.jpg",
+  "visual_qa_status": "contact-sheet inspected by workflow before staging; no text-heavy images intentionally prompted; parent report will cite final visual QA."
+}

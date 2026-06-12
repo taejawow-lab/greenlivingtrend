@@ -1,0 +1,257 @@
+{
+  "slug": "whole-house-fan-night-ventilation-heat-wave-plan",
+  "title": "Whole-House Fan and Night Ventilation Heat-Wave Plan",
+  "post": "src/content/posts/whole-house-fan-night-ventilation-heat-wave-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-hero.png",
+      "filename": "glt-night-ventilation-20260613-hero.png",
+      "prompt": "realistic evening home ventilation scene with open screened window, ceiling fan, closed curtains, no labels, no text, safe cords",
+      "positive_prompt": "realistic evening home ventilation scene with open screened window, ceiling fan, closed curtains, no labels, no text, safe cords, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130701,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "ac32736e-3d32-447f-958d-e4ac149573eb",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1697067
+    },
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-01.png",
+      "filename": "glt-night-ventilation-20260613-01.png",
+      "prompt": "realistic hallway whole house fan vent area with clean grille, no readable labels, no exposed wiring",
+      "positive_prompt": "realistic hallway whole house fan vent area with clean grille, no readable labels, no exposed wiring, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130702,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "2aaa59ac-5949-4483-93aa-6556f0e0acf2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1359888
+    },
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-02.png",
+      "filename": "glt-night-ventilation-20260613-02.png",
+      "prompt": "realistic evening window ventilation setup with screen, curtains, thermometer turned away with no numbers",
+      "positive_prompt": "realistic evening window ventilation setup with screen, curtains, thermometer turned away with no numbers, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130703,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "076516ed-aca6-4dcf-ba89-c97e105a750a",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1333857
+    },
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-03.png",
+      "filename": "glt-night-ventilation-20260613-03.png",
+      "prompt": "realistic morning close up routine with shades closed and windows latched, no text",
+      "positive_prompt": "realistic morning close up routine with shades closed and windows latched, no text, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130704,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "4257b9c7-4b96-4250-951e-198774c3248e",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1098406
+    },
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-04.png",
+      "filename": "glt-night-ventilation-20260613-04.png",
+      "prompt": "realistic indoor air quality fallback scene with air purifier blank panel and closed window, no labels",
+      "positive_prompt": "realistic indoor air quality fallback scene with air purifier blank panel and closed window, no labels, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130705,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "74069892-646c-4650-9e06-dbc4b1e94367",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1294295
+    },
+    {
+      "file": "public/images/illustrations/glt-night-ventilation-20260613-05.png",
+      "filename": "glt-night-ventilation-20260613-05.png",
+      "prompt": "realistic home energy planning flat lay with blank cards, keys, plant, no numbers or writing",
+      "positive_prompt": "realistic home energy planning flat lay with blank cards, keys, plant, no numbers or writing, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606130706,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "62c49654-4ec3-47df-bf6b-d43e2942f0b6",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1677150
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260613-greenlivingtrend-contact-sheet.jpg",
+  "preflight": {
+    "cmd": [
+      "python3",
+      "bin/preflight_topic_quality_gate.py",
+      "--site",
+      "greenlivingtrend",
+      "--slug",
+      "whole-house-fan-night-ventilation-heat-wave-plan",
+      "--title",
+      "Whole-House Fan and Night Ventilation Heat-Wave Plan"
+    ],
+    "rc": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"greenlivingtrend\",\n  \"slug\": \"whole-house-fan-night-ventilation-heat-wave-plan\",\n  \"title\": \"Whole-House Fan and Night Ventilation Heat-Wave Plan\",\n  \"candidate_tokens\": [\n    \"fan\",\n    \"house\",\n    \"night\",\n    \"ventilation\",\n    \"wave\",\n    \"whole\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  },
+  "source_results": [
+    {
+      "url": "https://www.energy.gov/energysaver/natural-ventilation",
+      "status": 200,
+      "final": "https://www.energy.gov/energysaver/natural-ventilation"
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/fans-cooling",
+      "status": 200,
+      "final": "https://www.energy.gov/energysaver/fans-cooling"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/improving-indoor-air-quality",
+      "status": 200,
+      "final": "https://www.epa.gov/indoor-air-quality-iaq/improving-indoor-air-quality"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality",
+      "status": 200,
+      "final": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality"
+    },
+    {
+      "url": "https://www.airnow.gov/aqi/aqi-basics/",
+      "status": 200,
+      "final": "https://www.airnow.gov/aqi/aqi-basics/"
+    },
+    {
+      "url": "https://www.cdc.gov/heat-health/about/index.html",
+      "status": 200,
+      "final": "https://www.cdc.gov/heat-health/about/index.html"
+    },
+    {
+      "url": "https://www.weather.gov/safety/heat",
+      "status": 200,
+      "final": "https://www.weather.gov/safety/heat"
+    },
+    {
+      "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fire-Safety-Information-Center",
+      "status": 200,
+      "final": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fire-Safety-Information-Center"
+    }
+  ],
+  "visual_qa_summary": "Contact sheet created; human/agent visual QA still required before commit. All assets are new GTI13 PNGs at 1536x864.",
+  "gate": {
+    "host": "gti13",
+    "time": 1781280876,
+    "available": true,
+    "reason": "ok",
+    "manual_pause": false,
+    "gaming_detected": false,
+    "game_processes": [],
+    "gpu": {
+      "available": true,
+      "name": "NVIDIA GeForce RTX 4090",
+      "vram_total_mb": 24564,
+      "vram_free_mb": 15247,
+      "utilization_percent": 0
+    },
+    "services": {
+      "comfyui_8188": true,
+      "ollama_11434": true
+    }
+  },
+  "host": "gti13",
+  "endpoint": "redacted-gti13-direct-8188",
+  "workflow": {
+    "steps": 26,
+    "cfg": 5.0,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup"
+  }
+}

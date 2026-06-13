@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-14",
+  "site": "greenlivingtrend",
+  "slug": "bathroom-exhaust-fan-summer-humidity-mold-energy-plan",
+  "host": "gti13",
+  "endpoint": "redacted-direct-gti13-comfyui",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, gauge numbers, thermometer numbers"
+  },
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1"
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-hero.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-hero.png",
+      "prompt": "realistic clean bathroom with exhaust fan grille, open door, dry towel, blank humidity card turned away, no labels, no text, no mold closeup",
+      "seed": 202606140119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "96f9c770-0fcd-4d24-adc5-2f51646e58e0",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1472846,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-01.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-01.png",
+      "prompt": "realistic dry bathroom ceiling exhaust vent grille close up on plain ceiling outside the shower area, no water, no shower spray, no shower head, no steam, no labels, no text",
+      "seed": 202606149102,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f13b16c1-63dd-4978-aadc-17fa28f62b46",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_fix2_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_after_final_visual_qa",
+      "bytes": 1988009,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-02.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-02.png",
+      "prompt": "realistic post-shower bathroom routine with fan switch area shown blank, towel drying safely, no readable labels",
+      "seed": 202606140121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "288675b7-c0a2-4b65-b625-83876bcedfff",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1573143,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-03.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-03.png",
+      "prompt": "realistic homeowner cleaning removable fan grille on table with soft brush, no electrical exposure, no text",
+      "seed": 202606140122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "30311fe8-410d-4f90-8567-580442fc08db",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1972470,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-04.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-04.png",
+      "prompt": "realistic summer humidity control scene with bathroom door ajar and ventilation path, no gauges numbers no labels",
+      "seed": 202606140123,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "e034eaa4-d4c1-44fd-9dda-946d78e02610",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1344090,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-bath-exhaust-humidity-20260614-05.png",
+      "filename": "glt-bath-exhaust-humidity-20260614-05.png",
+      "prompt": "realistic dry bathroom storage scene with towels spaced for airflow, no mold closeup, no brand marks",
+      "seed": 202606140124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "66693af4-c451-41a9-a082-25c636c98543",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1755756,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa": "accepted after contact-sheet QA; bodywiselab 01 and greenlivingtrend 01 regenerated twice; cooknestdaily 01 and drive-insight 03/04 regenerated once; final2 sheets accepted for affected sites."
+}

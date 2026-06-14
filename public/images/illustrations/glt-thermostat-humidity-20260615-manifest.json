@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-06-14T16:15:01Z",
+  "batch": "A",
+  "date": "2026-06-15",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.05,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, clock face numbers, watch face, phone screen, app interface, dashboard numbers, appliance control panel, warning label text"
+  },
+  "endpoint": "redacted-direct-gti13-comfyui",
+  "site": "greenlivingtrend",
+  "slug": "smart-thermostat-humidity-summer-setback-plan",
+  "title": "Smart Thermostat Humidity Summer Setback Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-hero.png",
+      "filename": "glt-thermostat-humidity-20260615-hero.png",
+      "prompt": "realistic summer living room with closed shades and ceiling fan, thermostat mostly hidden and blank dark side view, no display, no numbers, no brand",
+      "seed": 202606150307,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "b95c6f3f-4aa7-4bf2-b3e7-ef6bc91579f2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1634385,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet visual QA rejected original tile for text/UI/license/cross-contamination risk."
+    },
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-01.png",
+      "filename": "glt-thermostat-humidity-20260615-01.png",
+      "prompt": "realistic hallway wall with thermostat shown only as blank dark rectangle from an angle beside houseplant and shaded window, no digits, no UI, no text",
+      "seed": 202606150308,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "29c80900-f896-4ca1-ae4e-2a621c354f22",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1467019,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet visual QA rejected original tile for text/UI/license/cross-contamination risk."
+    },
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-02.png",
+      "filename": "glt-thermostat-humidity-20260615-02.png",
+      "prompt": "realistic living room summer comfort setup with closed blinds, fan, sofa, no thermostat display visible, no text",
+      "seed": 202606150121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "cb33ef4a-3c0a-4e68-8e79-91786c22f6d1",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1908303,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.05,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-03.png",
+      "filename": "glt-thermostat-humidity-20260615-03.png",
+      "prompt": "realistic bathroom humidity prevention scene with towel rack, closed laundry basket, plain vent, no washer, no control panels, no labels, no text",
+      "seed": 202606150309,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "791d0851-6199-434c-b509-b22b46af089d",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1483238,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet visual QA rejected original tile for text/UI/license/cross-contamination risk."
+    },
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-04.png",
+      "filename": "glt-thermostat-humidity-20260615-04.png",
+      "prompt": "realistic family energy planning table with blank cards, keys, sunglasses, closed laptop, no readable text no screens",
+      "seed": 202606150123,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "230d6994-fdfd-41b2-b393-8b5227865d1e",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1658806,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.05,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-thermostat-humidity-20260615-05.png",
+      "filename": "glt-thermostat-humidity-20260615-05.png",
+      "prompt": "realistic evening setback comfort scene with bed, light blanket, shaded window, thermostat not visible, no clock numbers no text",
+      "seed": 202606150124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "e4d26d85-be47-46e6-a891-a27cbad2dc45",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1545566,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.05,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet updated after visual QA replacements; accepted assets match MDX references and manifest.",
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260615-greenlivingtrend-contact-sheet-final.jpg"
+}

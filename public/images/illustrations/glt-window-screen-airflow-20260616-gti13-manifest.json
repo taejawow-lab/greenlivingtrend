@@ -1,0 +1,202 @@
+{
+  "slug": "window-screen-airflow-pollen-summer-plan",
+  "title": "Window Screen Airflow, Pollen, and Summer Cooling Plan",
+  "post": "src/content/posts/window-screen-airflow-pollen-summer-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-hero.png",
+      "filename": "glt-window-screen-airflow-20260616-hero.png",
+      "prompt": "realistic open window with clean screen, shade, fan safely placed away, blank weather card, no readable text no labels",
+      "seed": 202606160119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "9144e353-8436-4a61-b29f-7c456661cdc7",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1424284,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-01.png",
+      "filename": "glt-window-screen-airflow-20260616-01.png",
+      "prompt": "realistic clean window screen and shaded room airflow scene, no text no logos",
+      "seed": 202606160120,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "ee538fa8-b403-4290-9af6-c3120ddeb7bb",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1588698,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-02.png",
+      "filename": "glt-window-screen-airflow-20260616-02.png",
+      "prompt": "realistic cross ventilation setup with two open windows and safe fan placement, no labels no cords in walkway",
+      "seed": 202606160121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d7165d23-52c9-477b-9d6e-950ec8bdf9ea",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1532638,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-03.png",
+      "filename": "glt-window-screen-airflow-20260616-03.png",
+      "prompt": "realistic pollen-aware entry table with shoes and blank cloth, closed window option, no readable text",
+      "seed": 202606160122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d0785253-6ed9-48dd-a29b-76b84f417aac",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1884972,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-04.png",
+      "filename": "glt-window-screen-airflow-20260616-04.png",
+      "prompt": "realistic room cooling scene with curtains, plants, and fan safely placed, blank controls no numbers",
+      "seed": 202606160123,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "bdadf2a3-ed1a-4afb-a4d4-9c47510964df",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1606832,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-window-screen-airflow-20260616-05.png",
+      "filename": "glt-window-screen-airflow-20260616-05.png",
+      "prompt": "realistic screen repair and cleaning still life with plain mesh and tools, no packaging labels no text",
+      "seed": 202606160124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "deeef94e-76bf-436e-a760-b30ee36f17da",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2032007,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260616-greenlivingtrend-contact-sheet.jpg",
+  "source_validation": [
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality",
+      "status": 200,
+      "final": "https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality",
+      "status": 200,
+      "final": "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality"
+    },
+    {
+      "url": "https://www.cdc.gov/air-quality/about/index.html",
+      "status": 200,
+      "final": "https://www.cdc.gov/air-quality/about/index.html"
+    },
+    {
+      "url": "https://www.airnow.gov/aqi/aqi-basics/",
+      "status": 200,
+      "final": "https://www.airnow.gov/aqi/aqi-basics/"
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/natural-ventilation",
+      "status": 200,
+      "final": "https://www.energy.gov/energysaver/natural-ventilation"
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/fans-cooling",
+      "status": 200,
+      "final": "https://www.energy.gov/energysaver/fans-cooling"
+    },
+    {
+      "url": "https://www.cdc.gov/mold-health/about/clean-up.html",
+      "status": 200,
+      "final": "https://www.cdc.gov/mold-health/about/clean-up.html"
+    },
+    {
+      "url": "https://www.weather.gov/safety/heat",
+      "status": 200,
+      "final": "https://www.weather.gov/safety/heat"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet regenerated after QA replacements; accepted for staging if final inspection passes.",
+  "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260616-greenlivingtrend-contact-sheet-final.jpg"
+}

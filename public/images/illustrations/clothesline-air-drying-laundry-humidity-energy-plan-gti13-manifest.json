@@ -1,0 +1,195 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "clothesline-air-drying-laundry-humidity-energy-plan",
+  "source": "GTI13 direct ComfyUI",
+  "host": "gti13",
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "sentinel_url": "http://192.168.50.30:9199/status",
+    "comfy_url": "http://192.168.50.29:8188",
+    "services": {
+      "comfyui_8188": true,
+      "sentinel_9199": false
+    },
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1",
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ],
+    "queue": {
+      "queue_running": [],
+      "queue_pending": []
+    }
+  },
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-hero.png",
+      "filename": "glt-clothesline-humidity-20260617-hero.png",
+      "prompt": "realistic laundry air drying setup with clothesline near open shaded window, hygrometer turned away blank, clear walkway, no labels, no text",
+      "seed": 202606170119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "449d925f-d458-4db5-a5f5-27d0a3ae3bf3",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1700884,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-01.png",
+      "filename": "glt-clothesline-humidity-20260617-01.png",
+      "prompt": "realistic outdoor clothesline with laundry in shaded yard, no brand marks, no text",
+      "seed": 202606170120,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "bdcb3be4-355a-4a5d-98f4-16f888fc2311",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2385107,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-02.png",
+      "filename": "glt-clothesline-humidity-20260617-02.png",
+      "prompt": "realistic indoor drying rack near ventilated window with clear floor path, no damp mold scene, no labels",
+      "seed": 202606170121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0762c382-c30b-4947-ad87-4612f37cc961",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1839651,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-03.png",
+      "filename": "glt-clothesline-humidity-20260617-03.png",
+      "prompt": "realistic laundry planning flat lay with clothespins, plain basket, blank weather card, no readable text",
+      "seed": 202606170122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "399f9ea4-2732-49de-a120-8da99c9f71e3",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2615305,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-04.png",
+      "filename": "glt-clothesline-humidity-20260617-04.png",
+      "prompt": "realistic laundry humidity control room with drying rack and compact dehumidifier, safe clear walkway, no visible cords, blank control panel turned away, no readable text, no labels",
+      "seed": 202606170305,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "b80d3a8c-7df9-486c-a216-ebb7784224f2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260617_regen_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1472697,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-clothesline-humidity-20260617-05.png",
+      "filename": "glt-clothesline-humidity-20260617-05.png",
+      "prompt": "realistic folded air-dried laundry on table with open window and fan safely placed, no labels no logos",
+      "seed": 202606170124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "eb52eea5-3bef-4615-902a-769e71f37376",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1620149,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet inspected; initially rejected assets regenerated and final set accepted for publication."
+}

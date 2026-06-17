@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-18",
+  "site": "greenlivingtrend",
+  "slug": "ceiling-fan-summer-cooling-direction-energy-plan",
+  "image_source": "GTI13 direct ComfyUI only",
+  "endpoint_redacted": "direct ComfyUI endpoint verified by gti13_gate.py",
+  "workflow": {
+    "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt_policy": "no text/logos/screens/labels/unsafe scenes"
+  },
+  "accepted_images": [
+    {
+      "file": "public/images/illustrations/glt-ceiling-fan-cooling-20260618-hero.png",
+      "filename": "glt-ceiling-fan-cooling-20260618-hero.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1450655,
+      "source": "GTI13 direct ComfyUI",
+      "host": "gti13",
+      "dimensions_requested": [
+        1536,
+        864
+      ]
+    },
+    {
+      "file": "public/images/illustrations/glt-ceiling-fan-cooling-20260618-01.png",
+      "filename": "glt-ceiling-fan-cooling-20260618-01.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1293229,
+      "source": "GTI13 direct ComfyUI",
+      "host": "gti13",
+      "dimensions_requested": [
+        1536,
+        864
+      ]
+    },
+    {
+      "file": "public/images/illustrations/glt-ceiling-fan-cooling-20260618-02.png",
+      "filename": "glt-ceiling-fan-cooling-20260618-02.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1606352,
+      "source": "GTI13 direct ComfyUI",
+      "host": "gti13",
+      "dimensions_requested": [
+        1536,
+        864
+      ]
+    },
+    {
+      "file": "public/images/illustrations/glt-ceiling-fan-cooling-20260618-03.png",
+      "filename": "glt-ceiling-fan-cooling-20260618-03.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2365068,
+      "source": "GTI13 direct ComfyUI",
+      "host": "gti13",
+      "dimensions_requested": [
+        1536,
+        864
+      ]
+    },
+    {
+      "file": "public/images/illustrations/glt-ceiling-fan-cooling-20260618-05.png",
+      "filename": "glt-ceiling-fan-cooling-20260618-05.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1614019,
+      "source": "GTI13 direct ComfyUI",
+      "host": "gti13",
+      "dimensions_requested": [
+        1536,
+        864
+      ]
+    }
+  ],
+  "visual_qa": "contact sheet reviewed; rejected assets excluded from MDX and not staged"
+}

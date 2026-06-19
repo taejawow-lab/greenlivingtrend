@@ -1,0 +1,218 @@
+{
+  "generated_at": "2026-06-19T16:14:57Z",
+  "batch": "A 20260620 cron",
+  "date": "2026-06-20",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "sentinel_url": "http://192.168.50.30:9199/status",
+    "comfy_url": "http://192.168.50.29:8188",
+    "services": {
+      "comfyui_8188": true,
+      "sentinel_9199": false
+    },
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1",
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ],
+    "queue": {
+      "queue_running": [],
+      "queue_pending": []
+    }
+  },
+  "preflight": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"greenlivingtrend\",\n  \"slug\": \"laundry-room-dehumidifier-drain-hose-energy-plan\",\n  \"title\": \"Laundry Room Dehumidifier Drain Hose Energy Plan\",\n  \"candidate_tokens\": [\n    \"dehumidifier\",\n    \"drain\",\n    \"hose\",\n    \"laundry\",\n    \"room\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  },
+  "site": "greenlivingtrend",
+  "post": "src/content/posts/laundry-room-dehumidifier-drain-hose-energy-plan.mdx",
+  "slug": "laundry-room-dehumidifier-drain-hose-energy-plan",
+  "title": "Laundry Room Dehumidifier Drain Hose Energy Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-hero.png",
+      "filename": "glt-dehumidifier-drain-20260620-hero.png",
+      "prompt": "realistic laundry room dehumidifier setup with plain appliance, drain hose routed safely to floor drain, clean walkway, blank control panel, no text",
+      "seed": 202606200119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "a89c0aae-9eed-4500-95cd-7bd8935c1850",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1398973,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-01.png",
+      "filename": "glt-dehumidifier-drain-20260620-01.png",
+      "prompt": "realistic laundry room dehumidifier with safe drain hose and clear walkway, blank control panel, no labels",
+      "seed": 202606200120,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "52762f54-b3d2-441c-97b5-8cd8105f57db",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1475569,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-02.png",
+      "filename": "glt-dehumidifier-drain-20260620-02.png",
+      "prompt": "realistic utility sink and drain hose inspection scene, no text, no exposed wiring, no fake labels",
+      "seed": 202606200121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "5476afa8-b922-463a-a23d-a5dfd009ec98",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1441387,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-03.png",
+      "filename": "glt-dehumidifier-drain-20260620-03.png",
+      "prompt": "realistic humidity-control planning flat lay with blank cards, towel, closed appliance, no numbers no text",
+      "seed": 202606200122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0b81b461-0192-42b2-9e9d-542e0b997bbf",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1962002,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-04.png",
+      "filename": "glt-dehumidifier-drain-20260620-04.png",
+      "prompt": "realistic filter cleaning setup with plain removable filter, soft brush, no labels no logos",
+      "seed": 202606200123,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0995f831-58cf-4e07-a1c8-c6dade7d64a1",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1298671,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-dehumidifier-drain-20260620-05.png",
+      "filename": "glt-dehumidifier-drain-20260620-05.png",
+      "prompt": "realistic basement laundry ventilation scene with closed washer, floor drain, no standing water, no unsafe wiring",
+      "seed": 202606200124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "237cc31a-32e7-4450-8665-28cab897ac0e",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1749535,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "sources": [
+    "https://www.energystar.gov/products/dehumidifiers",
+    "https://www.energy.gov/energysaver/dehumidifiers",
+    "https://www.epa.gov/mold/mold-resources-and-publications",
+    "https://www.cdc.gov/mold-health/about/index.html",
+    "https://www.energystar.gov/products/appliances/dehumidifiers",
+    "https://www.energy.gov/energysaver/fans-cooling",
+    "https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality",
+    "https://www.cdc.gov/mold-health/prevention/index.html"
+  ],
+  "visual_qa_summary": "Initial contact-sheet visual QA passed: no readable labels/text, unsafe scenes, or subject mismatch requiring regeneration.",
+  "regenerated_after_visual_qa": []
+}

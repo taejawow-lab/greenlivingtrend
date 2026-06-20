@@ -1,0 +1,218 @@
+{
+  "site": "greenlivingtrend",
+  "date": "2026-06-21",
+  "slug": "window-ac-filter-cleaning-summer-energy-plan",
+  "title": "Window AC Filter Cleaning Summer Energy Plan",
+  "endpoint_host": "gti13-direct-comfyui",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "assets": [
+    {
+      "filename": "glt-window-ac-filter-20260621-hero.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-hero.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-hero.png",
+      "prompt": "realistic window-mounted air conditioner viewed from inside room with removable filter partly out, unplugged cord safely coiled, blank control panel, no text no labels",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 623530,
+      "prompt_id": "30243372-6e7b-4310-88d0-c688547057a6",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-hero-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    },
+    {
+      "filename": "glt-window-ac-filter-20260621-01.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-01.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-01.png",
+      "prompt": "realistic window AC with front panel open and clean filter removed, unplugged cord visible but safe, no labels no text",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622601,
+      "prompt_id": "08343ebc-b33c-43a3-9cc4-16ba3fc6e2c8",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "glt-window-ac-filter-20260621-02.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-02.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-02.png",
+      "prompt": "realistic sink rinsing washable AC filter with clean water, no product labels, no text, safe household scene",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622602,
+      "prompt_id": "088c065f-9ec6-48f4-8c25-ec15b0f1cfaf",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "glt-window-ac-filter-20260621-03.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-03.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-03.png",
+      "prompt": "realistic window-mounted air conditioner cooling a shaded room, curtains clear of airflow, safe cord path, blank controls, no text no labels",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 623199,
+      "prompt_id": "67434452-9db1-444a-b5f7-8f9a07e88fa8",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-03-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    },
+    {
+      "filename": "glt-window-ac-filter-20260621-04.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-04.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-04.png",
+      "prompt": "realistic maintenance flat lay with soft brush, towel, blank checklist cards, no readable text no packaging labels",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622604,
+      "prompt_id": "b320248e-ca12-49fe-98b7-a5ef426df896",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "glt-window-ac-filter-20260621-05.png",
+      "path": "public/images/illustrations/glt-window-ac-filter-20260621-05.png",
+      "render_url": "/images/illustrations/glt-window-ac-filter-20260621-05.png",
+      "prompt": "realistic window air conditioner securely installed in window frame from inside room, clean filter nearby, no mini split, no exposed wiring, no labels no text",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 623201,
+      "prompt_id": "930931dc-45a7-44b1-94ec-68820c67247c",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "glt-window-ac-filter-20260621-05-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    }
+  ],
+  "contact_sheet": "public/images/illustrations/glt-window-ac-filter-20260621-contact-sheet.jpg",
+  "visual_qa": "PASS: final contact sheet inspected; regenerated rejected unsafe/mismatched tiles before build",
+  "qa_replacements": [
+    {
+      "site": "cooknestdaily",
+      "file": "public/images/illustrations/cnd-burger-leftover-20260621-04.png",
+      "prompt_id": "dec97fb5-0023-4c4e-af55-6c48d0e71457"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-01.png",
+      "prompt_id": "ff52e4f2-f153-441c-95c8-f3019b5332c5"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-03.png",
+      "prompt_id": "069704cd-dbcf-41a4-ba56-b6d1974c05e4"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-05.png",
+      "prompt_id": "c52c474f-d484-4ad7-85fc-31ded4314cfc"
+    },
+    {
+      "site": "greenlivingtrend",
+      "file": "public/images/illustrations/glt-window-ac-filter-20260621-hero.png",
+      "prompt_id": "30243372-6e7b-4310-88d0-c688547057a6"
+    },
+    {
+      "site": "greenlivingtrend",
+      "file": "public/images/illustrations/glt-window-ac-filter-20260621-03.png",
+      "prompt_id": "67434452-9db1-444a-b5f7-8f9a07e88fa8"
+    },
+    {
+      "site": "greenlivingtrend",
+      "file": "public/images/illustrations/glt-window-ac-filter-20260621-05.png",
+      "prompt_id": "930931dc-45a7-44b1-94ec-68820c67247c"
+    }
+  ]
+}

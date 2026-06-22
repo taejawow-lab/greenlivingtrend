@@ -1,0 +1,218 @@
+{
+  "slug": "attic-hatch-insulation-summer-cooling-leak-check",
+  "title": "Attic Hatch Insulation Summer Cooling Leak Check",
+  "post": "src/content/posts/attic-hatch-insulation-summer-cooling-leak-check.mdx",
+  "word_count": 1550,
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-hero.png",
+      "filename": "glt-attic-hatch-20260623-hero.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-hero.png",
+      "prompt": "realistic home hallway ceiling attic hatch with clean ladder nearby, insulation sample, flashlight, blank notebook, no labels no unsafe wiring",
+      "seed": 202606230101,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3d91859a-df08-4a2c-a6a9-c6c657095c40",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1441465,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-01.png",
+      "filename": "glt-attic-hatch-20260623-01.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-01.png",
+      "prompt": "realistic attic hatch inspection from hallway with flashlight, plain ladder, no exposed wiring no text",
+      "seed": 202606230102,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "a0e462d9-b863-4482-adf8-680438a9ec0f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1475562,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-02.png",
+      "filename": "glt-attic-hatch-20260623-02.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-02.png",
+      "prompt": "realistic weatherstripping and foam gasket materials on clean workbench with blank cards no labels",
+      "seed": 202606230103,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "9bfad6a5-2e77-4918-b0c9-21196167a5a4",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1549753,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-03.png",
+      "filename": "glt-attic-hatch-20260623-03.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-03.png",
+      "prompt": "realistic close view of ceiling attic hatch edge being checked with flashlight from floor level, no person on ladder, no exposed wiring, no text, safe inspection scene",
+      "seed": 202606231505,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0e962c45-2df7-4732-98f1-482c14c4820f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_final_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_final_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1449402,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-04.png",
+      "filename": "glt-attic-hatch-20260623-04.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-04.png",
+      "prompt": "realistic finished attic hatch air sealing detail with plain gasket and insulated panel on work surface, no vent, no thermostat, no labels, no text, no wiring",
+      "seed": 202606231506,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "655e66e4-6522-4e91-b9df-623e2d735006",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_final_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_final_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1833914,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-attic-hatch-20260623-05.png",
+      "filename": "glt-attic-hatch-20260623-05.png",
+      "render_url": "/images/illustrations/glt-attic-hatch-20260623-05.png",
+      "prompt": "realistic finished attic hatch with neat trim and insulation panel, no labels no wires no unsafe scene",
+      "seed": 202606230106,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d0d8d472-16d2-48df-ad80-76c5d4e9a3c2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1646454,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260623-greenlivingtrend-contact-sheet.jpg",
+  "source_validation": [
+    {
+      "url": "https://www.energystar.gov/saveathome/seal_insulate",
+      "status": 200,
+      "effective_url": "https://www.energystar.gov/saveathome/seal_insulate",
+      "ok": true
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/air-sealing-your-home",
+      "status": 200,
+      "effective_url": "https://www.energy.gov/energysaver/air-sealing-your-home",
+      "ok": true
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/insulation",
+      "status": 200,
+      "effective_url": "https://www.energy.gov/energysaver/insulation",
+      "ok": true
+    },
+    {
+      "url": "https://www.energy.gov/energysaver/energy-saver",
+      "status": 200,
+      "effective_url": "https://www.energy.gov/energysaver/energy-saver",
+      "ok": true
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/ventilation-and-coronavirus-covid-19",
+      "status": 200,
+      "effective_url": "https://www.epa.gov/indoor-air-quality-iaq/ventilation-and-respiratory-viruses",
+      "ok": true
+    },
+    {
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.23",
+      "status": 200,
+      "effective_url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.23",
+      "ok": true
+    },
+    {
+      "url": "https://basc.pnnl.gov/resource-guides/air-sealing-attic-access-panelsdoorsstairs",
+      "status": 200,
+      "effective_url": "https://basc.pnnl.gov/resource-guides/air-sealing-attic-access-panelsdoorsstairs",
+      "ok": true
+    },
+    {
+      "url": "https://www.energystar.gov/saveathome/heating-cooling/duct-sealing",
+      "status": 200,
+      "effective_url": "https://www.energystar.gov/saveathome/heating-cooling/duct-sealing",
+      "ok": true
+    }
+  ],
+  "status": "generated_pending_visual_qa",
+  "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260623-greenlivingtrend-contact-sheet-final.jpg",
+  "visual_qa": "regenerated rejected panels; final contact sheet pending inspection"
+}

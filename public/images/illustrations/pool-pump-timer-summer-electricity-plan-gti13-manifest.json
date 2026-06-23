@@ -1,0 +1,282 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "pool-pump-timer-summer-electricity-plan",
+  "title": "Pool Pump Timer Summer Electricity Plan",
+  "date": "2026-06-24",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "gate": {
+    "host": "gti13",
+    "time": 1782231650,
+    "available": true,
+    "reason": "ok",
+    "manual_pause": false,
+    "gaming_detected": false,
+    "game_processes": [],
+    "gpu": {
+      "available": true,
+      "name": "NVIDIA GeForce RTX 4090",
+      "vram_total_mb": 24564,
+      "vram_free_mb": 15509,
+      "utilization_percent": 0
+    },
+    "services": {
+      "comfyui_8188": true,
+      "ollama_11434": true
+    }
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-hero.png",
+      "filename": "glt-pool-pump-timer-20260624-hero.png",
+      "prompt": "realistic backyard pool equipment area with plain pump housing and closed blank timer cover, no labels, no readable controls, no brand marks",
+      "seed": 202606240119,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "eb9f8777-a723-4943-9daf-4ae06c48fad1",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1671921,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-01.png",
+      "filename": "glt-pool-pump-timer-20260624-01.png",
+      "prompt": "realistic pool pump equipment pad in shaded clean area with blank control cover, no text no labels",
+      "seed": 202606240120,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "c98273b8-3967-4687-b6ca-8a7c5971f12a",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1765327,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-02.png",
+      "filename": "glt-pool-pump-timer-20260624-02.png",
+      "prompt": "realistic pool maintenance planning table with blank cards, water sample bottle without label, no numbers",
+      "seed": 202606240121,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "842148aa-3200-4367-9ada-9ed7ef19acb2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1711424,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-03.png",
+      "filename": "glt-pool-pump-timer-20260624-03.png",
+      "prompt": "realistic homeowner checking pool surface from deck with safe clear walkway, no children no brand marks",
+      "seed": 202606240122,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "2ac2b441-2ace-4f23-a2c7-26fd6e51f26c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1835472,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-04.png",
+      "filename": "glt-pool-pump-timer-20260624-04.png",
+      "prompt": "realistic home pool energy planning flat lay with blank notebook, plain pencil, pool test bottle without label, small plain timer box closed with no display, no stopwatch, no clock, no numbers, no text",
+      "seed": 202606249006,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0fe3c9bf-a2e1-41e9-90b0-278a87b51b3f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_regen_greenlivingtrend_glt-pool-pump-timer-20260624-04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "replaced_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1990333,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "greenlivingtrend"
+    },
+    {
+      "file": "public/images/illustrations/glt-pool-pump-timer-20260624-05.png",
+      "filename": "glt-pool-pump-timer-20260624-05.png",
+      "prompt": "realistic pool professional style inspection scene with closed equipment panel, safe posture, no labels no logos",
+      "seed": 202606240124,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "12c0a76b-f537-43b2-bfcc-ecf4132a9c57",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2191082,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet written after targeted replacements; accepted for build/publish if final QA passes.",
+  "final_contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260624-greenlivingtrend-contact-sheet-final.jpg",
+  "source_validation": {
+    "https://www.energystar.gov/products/pool_pumps": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.energystar.gov/products/pool_pumps",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.energy.gov/energysaver/swimming-pool-heating": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.energy.gov/energysaver/swimming-pool-heating-and-maintenance",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.energy.gov/energysaver/reducing-electricity-use-and-costs": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.energy.gov/energysaver/reducing-electricity-use-and-costs",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.epa.gov/watersense/outdoors": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.epa.gov/watersense/outdoors",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.cdc.gov/healthy-swimming/index.html": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.cdc.gov/healthy-swimming/index.html",
+          "content_type": "text/html"
+        }
+      ]
+    },
+    "https://www.cdc.gov/healthy-swimming/toolkit/operating-public-pools-hot-tubs-and-splash-pads.html": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.cdc.gov/healthy-swimming/toolkit/operating-public-pools-hot-tubs-and-splash-pads.html",
+          "content_type": "text/html"
+        }
+      ]
+    },
+    "https://www.energystar.gov/saveathome/heating-cooling": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.energystar.gov/saveathome/heating-cooling",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.poolsafely.gov/": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.poolsafely.gov/",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    }
+  },
+  "preflight": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"greenlivingtrend\",\n  \"slug\": \"pool-pump-timer-summer-electricity-plan\",\n  \"title\": \"Pool Pump Timer Summer Electricity Plan\",\n  \"candidate_tokens\": [\n    \"electricity\",\n    \"pool\",\n    \"pump\",\n    \"timer\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  }
+}

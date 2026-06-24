@@ -1,0 +1,154 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "smart-power-strip-standby-energy-home-office-plan",
+  "title": "Smart Power Strip Standby Energy Home Office Plan",
+  "date": "2026-06-25",
+  "host": "gti13",
+  "endpoint": "redacted-direct-gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "assets": [
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-hero.png",
+      "filename": "glt-smart-strip-standby-20260625-hero.png",
+      "prompt": "realistic home office energy setup with smart power strip under desk, safe cord path, closed laptop, blank monitor, no labels, no text",
+      "seed": 202606250119,
+      "prompt_id": "ba86a0dc-0838-4161-9e2c-d0ccff948aec",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1554247,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-01.png",
+      "filename": "glt-smart-strip-standby-20260625-01.png",
+      "prompt": "realistic home office desk with devices grouped and blank screens, safe cable management, no text",
+      "seed": 202606250120,
+      "prompt_id": "7926ef20-e3ab-47ef-b62b-418b169b14f4",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1333619,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-02.png",
+      "filename": "glt-smart-strip-standby-20260625-02.png",
+      "prompt": "realistic plain white power strip under desk with outlets visible but no printed labels or numbers, single safe plug, clean cable path, no text",
+      "seed": 202606250908,
+      "prompt_id": "829010a6-a1ba-41c3-80d3-6fd22e9f2778",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1633486,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-03.png",
+      "filename": "glt-smart-strip-standby-20260625-03.png",
+      "prompt": "realistic home office plug-load audit still life with closed notebook, unplugged simple cord, safe outlet in background, no adapters, no overloaded outlet, no text",
+      "seed": 202606250909,
+      "prompt_id": "a124b577-2aa5-48bb-87e8-b255a602d533",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1233995,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-04.png",
+      "filename": "glt-smart-strip-standby-20260625-04.png",
+      "prompt": "realistic evening shutdown routine with closed laptop, lamp off, power strip accessible, no UI",
+      "seed": 202606250123,
+      "prompt_id": "4b7c75a0-df09-49f8-a2e9-04499879411e",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1363236,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/glt-smart-strip-standby-20260625-05.png",
+      "filename": "glt-smart-strip-standby-20260625-05.png",
+      "prompt": "realistic tidy home office shutdown scene with monitors completely black/off, closed laptop, cable clips, accessible power strip, no UI, no readable text",
+      "seed": 202606251104,
+      "prompt_id": "6f13f907-92c2-4a70-922a-e059cf76dfbf",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1125974,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 28,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final2_greenlivingtrend_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true,
+      "regenerated_for_visual_qa_final2": true
+    }
+  ],
+  "contact_sheets": {
+    "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-greenlivingtrend-contact-sheet.jpg",
+    "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-greenlivingtrend-contact-sheet-final.jpg",
+    "contact_sheet_final2": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-greenlivingtrend-contact-sheet-final2.jpg"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "refrigerator-coil-cleaning-energy-savings-plan",
+  "date": "2026-06-28",
+  "gti15_endpoint": "redacted direct GTI15 ComfyUI endpoint passed gate and smoke",
+  "dimensions": "1536x864",
+  "accepted_images": [
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628/greenlivingtrend/fridge-coil-cleaning/20260628_012011_krea_3146259878.png",
+      "public_url": "/images/illustrations/gre-refrigerator-coil-cleaning-energy-savings-plan-20260628-1.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628/greenlivingtrend/fridge-coil-cleaning/20260628_012048_realvis_3146259879.png",
+      "public_url": "/images/illustrations/gre-refrigerator-coil-cleaning-energy-savings-plan-20260628-2.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628/greenlivingtrend/fridge-coil-cleaning/20260628_012104_juggernaut_3146259880.png",
+      "public_url": "/images/illustrations/gre-refrigerator-coil-cleaning-energy-savings-plan-20260628-3.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/greenlivingtrend/fridge-maintenance-tools/20260628_013107_realvis_2456240798.png",
+      "public_url": "/images/illustrations/gre-refrigerator-coil-cleaning-energy-savings-plan-20260628-4.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/greenlivingtrend/fridge-maintenance-tools/20260628_013125_juggernaut_2456240799.png",
+      "public_url": "/images/illustrations/gre-refrigerator-coil-cleaning-energy-savings-plan-20260628-5.png"
+    }
+  ],
+  "visual_qa": "passed after rejecting listed failed candidates; accepted images only copied to repo"
+}

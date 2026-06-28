@@ -1,0 +1,56 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "door-sweep-weatherstrip-summer-cooling-leak-plan",
+  "accepted": [
+    {
+      "slot": 1,
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batchA/greenlivingtrend_a/20260629_011854_krea_449985898.png",
+      "published": "/home/taekm33/blog-ops/16-sites/greenlivingtrend/public/images/illustrations/glt-door-sweep-weatherstrip-summer-cooling-leak-plan-20260629-1.png",
+      "qa": "accepted visual QA",
+      "dimensions": "1536x864",
+      "host": "gti15",
+      "endpoint": "redacted GTI15 ComfyUI",
+      "generated_at": "2026-06-29"
+    },
+    {
+      "slot": 2,
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batchA/greenlivingtrend_a/20260629_011927_realvis_449985899.png",
+      "published": "/home/taekm33/blog-ops/16-sites/greenlivingtrend/public/images/illustrations/glt-door-sweep-weatherstrip-summer-cooling-leak-plan-20260629-2.png",
+      "qa": "accepted visual QA",
+      "dimensions": "1536x864",
+      "host": "gti15",
+      "endpoint": "redacted GTI15 ComfyUI",
+      "generated_at": "2026-06-29"
+    },
+    {
+      "slot": 3,
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batchA/greenlivingtrend_a/20260629_011941_juggernaut_449985900.png",
+      "published": "/home/taekm33/blog-ops/16-sites/greenlivingtrend/public/images/illustrations/glt-door-sweep-weatherstrip-summer-cooling-leak-plan-20260629-3.png",
+      "qa": "accepted visual QA",
+      "dimensions": "1536x864",
+      "host": "gti15",
+      "endpoint": "redacted GTI15 ComfyUI",
+      "generated_at": "2026-06-29"
+    },
+    {
+      "slot": 4,
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batchA/greenlivingtrend_b/20260629_012029_realvis_1837489065.png",
+      "published": "/home/taekm33/blog-ops/16-sites/greenlivingtrend/public/images/illustrations/glt-door-sweep-weatherstrip-summer-cooling-leak-plan-20260629-4.png",
+      "qa": "accepted visual QA",
+      "dimensions": "1536x864",
+      "host": "gti15",
+      "endpoint": "redacted GTI15 ComfyUI",
+      "generated_at": "2026-06-29"
+    },
+    {
+      "slot": 5,
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batchA/greenlivingtrend_b/20260629_012045_juggernaut_1837489066.png",
+      "published": "/home/taekm33/blog-ops/16-sites/greenlivingtrend/public/images/illustrations/glt-door-sweep-weatherstrip-summer-cooling-leak-plan-20260629-5.png",
+      "qa": "accepted visual QA",
+      "dimensions": "1536x864",
+      "host": "gti15",
+      "endpoint": "redacted GTI15 ComfyUI",
+      "generated_at": "2026-06-29"
+    }
+  ]
+}

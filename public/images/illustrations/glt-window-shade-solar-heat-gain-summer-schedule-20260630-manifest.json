@@ -1,0 +1,56 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "window-shade-solar-heat-gain-summer-schedule",
+  "date": "2026-06-30",
+  "endpoint": "GTI15 ComfyUI endpoint (redacted)",
+  "dimensions": "1536x864",
+  "accepted_count": 5,
+  "assets": [
+    {
+      "engine": "krea",
+      "seed": 1006320217,
+      "prompt_id": "a8271efd-3443-4462-bbe7-f11d9d9f678a",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\greenlivingtrend\\run1_window_shade_summer_heat\\20260630_012001_krea_1006320217.png",
+      "bytes": 1562242,
+      "seconds": 36,
+      "published": "public/images/illustrations/glt-window-shade-solar-heat-gain-summer-schedule-20260630-1.png"
+    },
+    {
+      "engine": "realvis",
+      "seed": 1006320218,
+      "prompt_id": "ea038054-77c4-47bf-aa6d-61829e4bcaa2",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\greenlivingtrend\\run1_window_shade_summer_heat\\20260630_012037_realvis_1006320218.png",
+      "bytes": 1502433,
+      "seconds": 17,
+      "published": "public/images/illustrations/glt-window-shade-solar-heat-gain-summer-schedule-20260630-2.png"
+    },
+    {
+      "engine": "juggernaut",
+      "seed": 1006320219,
+      "prompt_id": "21a2efd2-2560-4416-b607-9f97db9bb5c1",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\greenlivingtrend\\run1_window_shade_summer_heat\\20260630_012055_juggernaut_1006320219.png",
+      "bytes": 1444275,
+      "seconds": 17,
+      "published": "public/images/illustrations/glt-window-shade-solar-heat-gain-summer-schedule-20260630-3.png"
+    },
+    {
+      "engine": "krea",
+      "seed": 1321313199,
+      "prompt_id": "fe94f8fc-6266-4e46-8f42-1d4046e27880",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\greenlivingtrend\\run2_solar_heat_gain_room_schedule\\20260630_012112_krea_1321313199.png",
+      "bytes": 1490572,
+      "seconds": 36,
+      "published": "public/images/illustrations/glt-window-shade-solar-heat-gain-summer-schedule-20260630-4.png"
+    },
+    {
+      "engine": "juggernaut",
+      "seed": 1321313201,
+      "prompt_id": "c37b1532-7737-4128-b188-b208197e3dcc",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\greenlivingtrend\\run2_solar_heat_gain_room_schedule\\20260630_012206_juggernaut_1321313201.png",
+      "bytes": 1350612,
+      "seconds": 18,
+      "published": "public/images/illustrations/glt-window-shade-solar-heat-gain-summer-schedule-20260630-5.png"
+    }
+  ],
+  "visual_qa": "manual contact-sheet QA passed for selected assets; rejected assets excluded"
+}

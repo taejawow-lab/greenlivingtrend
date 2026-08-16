@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "site": "greenlivingtrend",
+  "slug": "home-energy-rebates-2026-tax-credits-ended",
+  "generated_at": "2026-08-17",
+  "backend": "GTI15 ComfyUI",
+  "visual_qa": "PASS",
+  "accepted_count": 6,
+  "assets": [
+    {
+      "prompt_id": "8743c9a0-878f-4778-9ca4-f247283d488e",
+      "remote": {
+        "filename": "gti15_natural_krea_00354_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-replacements\\greenlivingtrend\\house-envelope\\20260817_014518_krea_3863164724.png",
+      "bytes": 1743493,
+      "seconds": 32,
+      "engine": "krea",
+      "seed": 3863164724,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-replacements/greenlivingtrend/house-envelope/manifest.json",
+      "prompt": "home energy rebate planning concept, modest energy-efficient house exterior with a sealed plain blank envelope and a simple house key in the foreground, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no screens, no forms, no bills, no currency, no blueprints, no measuring tape, no logos, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-1.png",
+      "sha256": "3bb37f548c89ad4752a83e023d0fef1c62acb25dcc9e68916d5a6677e1a11df3"
+    },
+    {
+      "prompt_id": "21aa0a48-abcd-474d-84ae-a72c5cc8050c",
+      "remote": {
+        "filename": "gti15_natural_realvis_00272_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-replacements\\greenlivingtrend\\insulation-tools\\20260817_014654_realvis_2815128286.png",
+      "bytes": 1515793,
+      "seconds": 15,
+      "engine": "realvis",
+      "seed": 2815128286,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-replacements/greenlivingtrend/insulation-tools/manifest.json",
+      "prompt": "home energy upgrade planning, clean attic access area with unmarked insulation roll, closed plain tool bag, work gloves and a sealed blank folder, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no labels, no screens, no forms, no bills, no currency, no blueprint, no measuring tape, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-2.png",
+      "sha256": "0d2e82a1ae5c95069e1e68894594da58d26f94fb0426d3d72c47302af97b14ae"
+    },
+    {
+      "prompt_id": "ed77e0df-08f2-4dba-8859-b2ef7aa676ae",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00271_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-replacements\\greenlivingtrend\\insulation-tools\\20260817_014709_juggernaut_2815128287.png",
+      "bytes": 1853910,
+      "seconds": 15,
+      "engine": "juggernaut",
+      "seed": 2815128287,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-replacements/greenlivingtrend/insulation-tools/manifest.json",
+      "prompt": "home energy upgrade planning, clean attic access area with unmarked insulation roll, closed plain tool bag, work gloves and a sealed blank folder, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no labels, no screens, no forms, no bills, no currency, no blueprint, no measuring tape, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-3.png",
+      "sha256": "fb6e3ac51a97e63c51aba6c39ea8effc81d8d2c1db080043303fc65a8f1466f2"
+    },
+    {
+      "prompt_id": "7c59c284-0e62-4209-8645-935381deaecc",
+      "remote": {
+        "filename": "gti15_natural_krea_00361_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-final-replacements\\greenlivingtrend\\efficient-house\\20260817_015210_krea_389080932.png",
+      "bytes": 2455427,
+      "seconds": 36,
+      "engine": "krea",
+      "seed": 389080932,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-final-replacements/greenlivingtrend/efficient-house/manifest.json",
+      "prompt": "2026 home energy rebate article, modest well-maintained American house exterior showing efficient windows and weather-sealed doors, clean yard, realistic editorial stock photo, no people, no hands, no faces, no vehicles, no signs, no text, no numbers, no envelopes, no keys, no screens, no forms, no bills, no currency, no logos, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-4.png",
+      "sha256": "31ef6fabf15120d85984a170cffae9d3c4bc9e767cc9d3f9aa6f1c5114134f29"
+    },
+    {
+      "prompt_id": "25f4b3d0-10db-420c-8b8b-e61e061471f1",
+      "remote": {
+        "filename": "gti15_natural_realvis_00278_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-final-replacements\\greenlivingtrend\\efficient-house\\20260817_015247_realvis_389080933.png",
+      "bytes": 2451296,
+      "seconds": 15,
+      "engine": "realvis",
+      "seed": 389080933,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-final-replacements/greenlivingtrend/efficient-house/manifest.json",
+      "prompt": "2026 home energy rebate article, modest well-maintained American house exterior showing efficient windows and weather-sealed doors, clean yard, realistic editorial stock photo, no people, no hands, no faces, no vehicles, no signs, no text, no numbers, no envelopes, no keys, no screens, no forms, no bills, no currency, no logos, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-5.png",
+      "sha256": "23f5474c5cae46dc68cc5cee5234dccfcb94b0111e0ee248378ad581590b0538"
+    },
+    {
+      "prompt_id": "aacb5979-7551-4e98-ba1e-b187f50eafb3",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00277_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-final-replacements\\greenlivingtrend\\efficient-house\\20260817_015302_juggernaut_389080934.png",
+      "bytes": 1828497,
+      "seconds": 15,
+      "engine": "juggernaut",
+      "seed": 389080934,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-final-replacements/greenlivingtrend/efficient-house/manifest.json",
+      "prompt": "2026 home energy rebate article, modest well-maintained American house exterior showing efficient windows and weather-sealed doors, clean yard, realistic editorial stock photo, no people, no hands, no faces, no vehicles, no signs, no text, no numbers, no envelopes, no keys, no screens, no forms, no bills, no currency, no logos, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "glt-home-energy-rebates-2026-tax-credits-ended-20260817-6.png",
+      "sha256": "e03f3ceac0c8bee721a05d6551563c61595adba656064ddcb500106856df78db"
+    }
+  ],
+  "rejected_candidates_not_published": true
+}

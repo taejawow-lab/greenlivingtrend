@@ -18,7 +18,8 @@ export const REVIEW_POSTS = [
   "smart-thermostat-savings-low-waste-setup-2026",
   "solar-charger-portable-tested",
   "sustainable-clothing-brands-compared",
-  "sustainable-food-choices-data"
+  "sustainable-food-choices-data",
+  "home-energy-rebates-2026-tax-credits-ended"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

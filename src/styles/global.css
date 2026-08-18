@@ -80,7 +80,7 @@
   .data-readout .value { @apply block font-mono text-3xl font-bold text-primary; }
   .data-readout .label { @apply mt-1 block text-[11px] font-bold uppercase tracking-[0.14em] text-muted-foreground; }
 
-  .prose-article { @apply prose prose-lg mx-auto max-w-[74ch] text-[1.05rem] leading-8 md:text-[1.1rem]; }
+  .prose-article { @apply prose prose-lg mx-auto w-full max-w-full lg:max-w-[74ch] text-[1.05rem] leading-8 md:text-[1.1rem]; }
   .prose-article a { @apply text-primary underline decoration-1 underline-offset-4 hover:text-accent transition-colors; }
   .prose-article :where(h2,h3,h4) { @apply scroll-mt-28 text-balance; }
   .prose-article :where(p,ul,ol,blockquote,table,figure) { @apply my-6; }

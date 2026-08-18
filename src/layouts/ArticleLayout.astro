@@ -104,7 +104,7 @@ const locale = localeMap[lang] || 'en-US';
   modifiedTime={(updatedDate || pubDate)?.toISOString()}
   schema={schema}
 >
-  <article class="container mx-auto px-4 sm:px-6 py-10 md:py-14 max-w-6xl">
+  <article class="container mx-auto w-full min-w-0 overflow-x-clip px-4 sm:px-6 py-10 md:py-14 max-w-6xl">
     <header class="mx-auto mb-8 max-w-3xl text-center">
       {category && (
         <a
@@ -147,7 +147,7 @@ const locale = localeMap[lang] || 'en-US';
 
     {affiliate && <AffiliateDisclosure />}
 
-    <div class="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_280px] gap-10 lg:gap-12">
+    <div class="grid min-w-0 grid-cols-1 lg:grid-cols-[minmax(0,1fr)_280px] gap-10 lg:gap-12">
       <div class="prose-article min-w-0">
         <slot />
         {sources.length > 0 && <References sources={sources} />}
@@ -163,15 +163,15 @@ const locale = localeMap[lang] || 'en-US';
     </div>
 
     {internalLinks.length > 0 && (
-      <section class="mt-14 rounded-[1.5rem] border border-border/70 bg-card/80 p-5 shadow-sm sm:p-7">
+      <section class="mt-14 min-w-0 rounded-[1.5rem] border border-border/70 bg-card/80 p-5 shadow-sm sm:p-7">
         <div class="mb-5 flex items-end justify-between gap-4 border-b border-border/70 pb-4">
           <h2 class="m-0 text-2xl font-bold" style="font-family: var(--font-display);">{t.related}</h2>
           <span class="hidden sm:inline text-xs uppercase tracking-[0.16em] text-muted-foreground">{t.explore}</span>
         </div>
-        <ul class="grid gap-3 sm:grid-cols-2">
+        <ul class="grid min-w-0 gap-3 sm:grid-cols-2">
           {internalLinks.map((link) => (
-            <li>
-              <a href={link} class="group flex min-h-12 items-center justify-between gap-3 rounded-2xl border border-border/70 bg-background px-4 py-3 text-sm font-semibold text-foreground/80 no-underline shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:text-primary hover:shadow-md focus-visible:outline-ring">
+            <li class="min-w-0">
+              <a href={link} class="group flex w-full min-w-0 min-h-12 items-center justify-between gap-3 rounded-2xl border border-border/70 bg-background px-4 py-3 text-sm font-semibold text-foreground/80 no-underline shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:text-primary hover:shadow-md focus-visible:outline-ring">
                 <span class="truncate font-mono text-xs sm:text-sm">{link}</span>
                 <span class="shrink-0 text-primary transition-transform group-hover:translate-x-1" aria-hidden="true">→</span>
               </a>

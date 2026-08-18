@@ -8,7 +8,7 @@ import re, sys
 ROOT = Path(__file__).resolve().parents[1]
 POSTS = ROOT / "src/content/posts"
 RETAINED = {
-"drought-tolerant-plants-data","home-recycling-reality-data","sustainable-food-choices-data","energy-star-appliances-roi","ev-vs-hybrid-lifecycle-data","low-flow-showerhead-tested","smart-thermostat-savings-low-waste-setup-2026","heat-pump-water-heater-checklist-2026","home-energy-audit-checklist-renters-homeowners","cloth-vs-paper-towel-data","reusable-water-bottles-compared","heat-pump-vs-gas-heater","bamboo-toothbrush-reviewed","composting-bin-guide-small-space","rainwater-collection-setup","silicone-food-storage-tested","eco-friendly-pest-control","sustainable-clothing-brands-compared","solar-charger-portable-tested","led-vs-cfl-bulbs-data","home-energy-rebates-2026-tax-credits-ended",
+"drought-tolerant-plants-data","home-recycling-reality-data","sustainable-food-choices-data","energy-star-appliances-roi","ev-vs-hybrid-lifecycle-data","low-flow-showerhead-tested","smart-thermostat-savings-low-waste-setup-2026","heat-pump-water-heater-checklist-2026","home-energy-audit-checklist-renters-homeowners","cloth-vs-paper-towel-data","reusable-water-bottles-compared","heat-pump-vs-gas-heater","bamboo-toothbrush-reviewed","composting-bin-guide-small-space","rainwater-collection-setup","silicone-food-storage-tested","eco-friendly-pest-control","sustainable-clothing-brands-compared","solar-charger-portable-tested","led-vs-cfl-bulbs-data","home-energy-rebates-2026-tax-credits-ended","shade-tree-home-cooling-energy-plan",
 }
 BANNED = re.compile(r"\b(?:adsense|seo)\b|publishing\s+(?:run|workflow)|generated[- ]image\s+qa", re.I)
 WORD = re.compile(r"\b[A-Za-z]+(?:[-'][A-Za-z]+)*\b")

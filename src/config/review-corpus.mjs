@@ -19,7 +19,8 @@ export const REVIEW_POSTS = [
   "solar-charger-portable-tested",
   "sustainable-clothing-brands-compared",
   "sustainable-food-choices-data",
-  "home-energy-rebates-2026-tax-credits-ended"
+  "home-energy-rebates-2026-tax-credits-ended",
+  "shade-tree-home-cooling-energy-plan"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "site": "greenlivingtrend",
+  "slug": "shade-tree-home-cooling-energy-plan",
+  "generated_at": "2026-08-19",
+  "backend": "GTI15 ComfyUI",
+  "visual_qa": "PASS",
+  "accepted_count": 5,
+  "assets": [
+    {
+      "prompt_id": "cc88fecb-2183-4337-9d74-da9caebd42e3",
+      "remote": {
+        "filename": "gti15_natural_realvis_00287_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\greenlivingtrend-1\\20260819_021638_realvis_1682347115.png",
+      "bytes": 2625420,
+      "seconds": 44,
+      "engine": "realvis",
+      "seed": 1682347115,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/greenlivingtrend-1/manifest.json",
+      "published_file": "glt-shade-tree-home-cooling-energy-plan-20260819-1.png",
+      "sha256": "7751eb116ea907f5eade297f19bb31196c86dce80aa4d6a49de55967ab72ac4f",
+      "published_bytes": 2625420
+    },
+    {
+      "prompt_id": "ce38d908-3413-4ac5-ba70-a624dc164c48",
+      "remote": {
+        "filename": "gti15_natural_realvis_00293_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\greenlivingtrend-2\\20260819_021937_realvis_2809854002.png",
+      "bytes": 2838079,
+      "seconds": 29,
+      "engine": "realvis",
+      "seed": 2809854002,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/greenlivingtrend-2/manifest.json",
+      "published_file": "glt-shade-tree-home-cooling-energy-plan-20260819-2.png",
+      "sha256": "95dd32fb23fce9b2e37d9196a532a954fdca6576cfc5441dfc82363902e95209",
+      "published_bytes": 2838079
+    },
+    {
+      "prompt_id": "0cebf931-0f33-45c8-9917-a0836d1569ab",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00292_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\greenlivingtrend-2\\20260819_022006_juggernaut_2809854003.png",
+      "bytes": 2502599,
+      "seconds": 28,
+      "engine": "juggernaut",
+      "seed": 2809854003,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/greenlivingtrend-2/manifest.json",
+      "published_file": "glt-shade-tree-home-cooling-energy-plan-20260819-3.png",
+      "sha256": "af4475c8fad49dbab5727872d15163ffb3b9dbef366dda9ea4c629bf206b86f4",
+      "published_bytes": 2502599
+    },
+    {
+      "prompt_id": "db933042-390e-473a-8972-ceb53ccf9149",
+      "remote": {
+        "filename": "gti15_natural_realvis_00296_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\greenlivingtrend-3\\20260819_022225_realvis_2479534108.png",
+      "bytes": 2994170,
+      "seconds": 37,
+      "engine": "realvis",
+      "seed": 2479534108,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/greenlivingtrend-3/manifest.json",
+      "published_file": "glt-shade-tree-home-cooling-energy-plan-20260819-4.png",
+      "sha256": "7c4ea3405c3b6fbe58411b8837cfa03d6e80bdca07beaae3ce40784808738b0d",
+      "published_bytes": 2994170
+    },
+    {
+      "prompt_id": "11026026-115c-47d2-9129-488aa866ac0e",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00295_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\greenlivingtrend-3\\20260819_022303_juggernaut_2479534109.png",
+      "bytes": 2724710,
+      "seconds": 28,
+      "engine": "juggernaut",
+      "seed": 2479534109,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/greenlivingtrend-3/manifest.json",
+      "published_file": "glt-shade-tree-home-cooling-energy-plan-20260819-5.png",
+      "sha256": "1cea40bb30a0df8d94b5bc0d1ca3a910be9cbe07f62177134af64613ee10c701",
+      "published_bytes": 2724710
+    }
+  ],
+  "rejected_candidates_not_published": true
+}

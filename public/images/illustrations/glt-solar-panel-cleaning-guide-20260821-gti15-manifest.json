@@ -1,0 +1,129 @@
+{
+  "batch": "A-20260821",
+  "site": "greenlivingtrend",
+  "slug": "solar-panel-cleaning-soiling-rainfall-safety-guide",
+  "generated_backend": "GTI15 ComfyUI",
+  "accepted_count": 5,
+  "visual_qa": "PASS final3: five accepted rasters; rejected rooftop ladders and unsafe access cues were regenerated.",
+  "assets": [
+    {
+      "prompt_id": "8147c3ae-2725-4d87-b2f5-d15becea00d9",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen3_greenlivingtrend_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 2573127,
+      "seconds": 5,
+      "suffix": "hero",
+      "filename": "greenlivingtrend-20260821-hero.png",
+      "prompt": "tight ground-level close-up of a clean ground-mounted solar panel array filling the frame in a flat grassy field after rain, no houses, no fence, no ladder, no poles, no antennas, no people, no tools, no text",
+      "seed": 202608213004,
+      "engine": "realvis",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": "third",
+      "published_file": "public/images/illustrations/glt-solar-panel-cleaning-guide-20260821-hero.png",
+      "published_url": "/images/illustrations/glt-solar-panel-cleaning-guide-20260821-hero.png"
+    },
+    {
+      "prompt_id": "5362dded-7e76-4444-bfc7-798137911721",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_greenlivingtrend_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 2138660,
+      "seconds": 12,
+      "suffix": "01",
+      "filename": "greenlivingtrend-20260821-01.png",
+      "prompt": "close view of realistic rooftop solar panels with a light uneven layer of dust and pollen, no damage, no people, no tools, no readable markings",
+      "seed": 202608210117,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-solar-panel-cleaning-guide-20260821-01.png",
+      "published_url": "/images/illustrations/glt-solar-panel-cleaning-guide-20260821-01.png"
+    },
+    {
+      "prompt_id": "29a1853d-605e-4e11-a242-c582c090b870",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_greenlivingtrend_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1802831,
+      "seconds": 12,
+      "suffix": "02",
+      "filename": "greenlivingtrend-20260821-02.png",
+      "prompt": "rooftop solar panels during gentle natural rainfall viewed from a safe adjacent window, no people, no ladders, no cleaning tools, realistic weather",
+      "seed": 202608210118,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-solar-panel-cleaning-guide-20260821-02.png",
+      "published_url": "/images/illustrations/glt-solar-panel-cleaning-guide-20260821-02.png"
+    },
+    {
+      "prompt_id": "9f5c45cf-3894-402d-9c65-02a8750919e7",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_greenlivingtrend_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 2269731,
+      "seconds": 12,
+      "suffix": "03",
+      "filename": "greenlivingtrend-20260821-03.png",
+      "prompt": "ground-mounted solar panel array with light leaf debris gathered along one lower edge, safe accessible setting, no people, no labels, realistic editorial photo",
+      "seed": 202608210119,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-solar-panel-cleaning-guide-20260821-03.png",
+      "published_url": "/images/illustrations/glt-solar-panel-cleaning-guide-20260821-03.png"
+    },
+    {
+      "prompt_id": "991252dd-1a74-4296-97e2-b070035d2376",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen2_greenlivingtrend_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1765482,
+      "seconds": 12,
+      "suffix": "04",
+      "filename": "greenlivingtrend-20260821-04.png",
+      "prompt": "tight close-up of clean rooftop solar panel glass and aluminum frames glowing at sunset, crop shows panels only with no roof edge, no skyline, no ladder, no antenna, no poles, no workers, no people, no tools, no text",
+      "seed": 202608212007,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": "second",
+      "published_file": "public/images/illustrations/glt-solar-panel-cleaning-guide-20260821-04.png",
+      "published_url": "/images/illustrations/glt-solar-panel-cleaning-guide-20260821-04.png"
+    }
+  ],
+  "rejected_assets_published": 0,
+  "final_contact_sheet": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260821-gti15/greenlivingtrend/contact_sheet-final3.jpg"
+}

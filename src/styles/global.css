@@ -87,6 +87,7 @@
   .prose-article blockquote { @apply border-l-4 border-accent bg-muted/40 pl-6 py-2 italic text-muted-foreground; }
   .prose-article code:not(pre code) { @apply rounded bg-muted px-1.5 py-0.5 text-sm font-mono text-primary; }
   .prose-article pre { @apply overflow-x-auto rounded-2xl border border-border bg-muted p-4; }
+  .prose-article table { display: block; width: 100%; max-width: 100%; overflow-x: auto; }
   .prose-article img { @apply rounded-2xl border border-border/60; }
 
   .comparison-table { @apply w-full my-8 border-collapse overflow-hidden rounded-2xl border border-border; }

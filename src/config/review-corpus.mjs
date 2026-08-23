@@ -21,7 +21,8 @@ export const REVIEW_POSTS = [
   "sustainable-food-choices-data",
   "home-energy-rebates-2026-tax-credits-ended",
   "shade-tree-home-cooling-energy-plan",
-  "solar-panel-cleaning-soiling-rainfall-safety-guide"
+  "solar-panel-cleaning-soiling-rainfall-safety-guide",
+  "space-heater-vs-heat-pump-cost-safety-guide"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

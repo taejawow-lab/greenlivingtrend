@@ -1,0 +1,169 @@
+{
+  "batch": "20260824-greenlivingtrend",
+  "site": "greenlivingtrend",
+  "slug": "space-heater-vs-heat-pump-cost-safety-guide",
+  "generated_backend": "GTI15 ComfyUI",
+  "accepted_count": 6,
+  "visual_qa": "PASS: six accepted raster images; no logos/readable text, malformed anatomy, unsafe heater placement, or irrelevant scenes. Planning image source was cropped to remove fake calculator UI.",
+  "assets": [
+    {
+      "suffix": "hero",
+      "prompt_id": "0a04aa1e-d859-4985-bdba-b9db2e7f9868",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00020_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 790318,
+      "sha256": "5157132d8b041bfb3bd23964aa9772193719d195516794699f35e6acdf04e81e",
+      "prompt": "Photorealistic wide editorial home-energy photograph, a professionally installed plain white wall-mounted ductless mini-split indoor heat pump head high on a living-room wall, adult homeowner seated comfortably below, winter scene outside window, the appliance has completely blank smooth casing with no display, no controls, no text, no logo, no label, no brand, no other heaters, accurate architecture and anatomy, warm natural daylight, 16:9 magazine composition",
+      "seed": 2682411,
+      "model": null,
+      "postprocess": null,
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-hero.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-hero.png"
+    },
+    {
+      "suffix": "01",
+      "prompt_id": "1455378d-3627-42ad-ba27-9aa469cf6937",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00021_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 866170,
+      "sha256": "1f3a373c93c722e491ffb2e92b12de9ce750ceb2186f41507ee333f4bae92d3c",
+      "prompt": "Photorealistic wide safety editorial photograph, one compact plain white ceramic electric space heater on a hard level floor centered in a large empty area, more than three feet from a distant sofa and curtains, one intact cord visibly plugged directly into a plain wall receptacle, no extension cord, no power strip, no papers, completely blank heater casing, no text, no logo, no label, no display, no fire, realistic safe setup, bright natural daylight, 16:9",
+      "seed": 2682412,
+      "model": null,
+      "postprocess": null,
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-01.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-01.png"
+    },
+    {
+      "suffix": "02",
+      "prompt_id": "1a268fa9-da45-4ae9-815c-2f6b2d84e1ff",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00022_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1147093,
+      "sha256": "e36ec51e3698e52d98e1850d8b9fc11057033bde0a3dee50bef5a290f33c0e59",
+      "prompt": "Photorealistic wide technical editorial photograph, one plain unbranded outdoor air-source heat pump condenser beside a modern modest house in light snow, unit correctly elevated on a sturdy level stand above snow, clear airflow, realistic neatly covered line set entering wall, completely blank cabinet with no text, no logo, no label, no UI, no fake control panel, no people, safe professional installation, crisp winter daylight, 16:9",
+      "seed": 2682413,
+      "model": null,
+      "postprocess": null,
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-02.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-02.png"
+    },
+    {
+      "suffix": "03",
+      "prompt_id": "58033f85-6812-4265-9b53-f039528b9481",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00024_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 812891,
+      "sha256": "2ef2d5f6bf09bdbb43403f112c2c0930e17ea7d5cbea422f52852f5db2df2a0f",
+      "prompt": "Photorealistic wide editorial photograph illustrating zonal winter comfort, adult homeowner reading in one modest occupied room with interior door closed, warm sweater and blanket, blank wall-mounted ductless mini-split heat pump head high on wall, no portable heater, other room beyond glass sidelights appears cooler and unused, no text, no UI, no labels, no logos, accurate anatomy, realistic home, soft evening light, 16:9",
+      "seed": 2682415,
+      "model": null,
+      "postprocess": null,
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-03.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-03.png"
+    },
+    {
+      "suffix": "04",
+      "prompt_id": "a43b2c7d-8272-4998-afdc-821d7b24c71a",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00025_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 878237,
+      "sha256": "c94e7b599a893bfcaae58c6d6ac9a8c15d5f33ed3bd3dd39c99476e98f51dfe1",
+      "prompt": "Photorealistic wide overhead editorial still life for a home-heating cost calculation, plain ceramic house model, three groups of smooth wooden counters arranged beside one group to symbolize different energy use, unmarked pencil, blank closed notebook with no lines or writing, warm scarf, no bills, no forms, no calculator, no screen, no text, no numbers, no labels, no logos, clean light wood table, soft natural light, 16:9",
+      "seed": 2682416,
+      "model": null,
+      "postprocess": "cropped source to x=0..1008, y=0..567; resized to 1280x720 to remove fake calculator UI",
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-04.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-04.png"
+    },
+    {
+      "suffix": "05",
+      "prompt_id": "2c1bb5d5-a136-4999-9040-1db4bbe0eeee",
+      "remote": {
+        "filename": "gti15_z_image_turbo_00026_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "published_dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 956676,
+      "sha256": "482440cc7dc281a32a68c6f5500c1b31f25959c8fe9b435ca9ab8414d2175741",
+      "prompt": "Photorealistic wide editorial photograph of a well-sealed residential window during winter, snow visible outside, thick curtains fully open and safely tied back, clean intact weatherstripping visible around frame, warm sunlight on wood floor, no people, no tools, no appliances, no papers, no products, no text, no letters, no numbers, no labels, no logos, no screen, no user interface, no distortion, calm sustainable home energy magazine style, 16:9",
+      "seed": 2682417,
+      "model": null,
+      "postprocess": null,
+      "status": "ACCEPTED_STRICT_VISUAL_QA",
+      "published_file": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-05.png",
+      "published_url": "/images/illustrations/glt-space-heater-vs-heat-pump-20260824-05.png"
+    }
+  ],
+  "rejected_assets_published": 0,
+  "final_contact_sheet": "public/images/illustrations/glt-space-heater-vs-heat-pump-20260824-contact-sheet.jpg",
+  "contact_sheet_bytes": 164992
+}

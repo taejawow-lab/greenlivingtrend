@@ -1,0 +1,57 @@
+{
+  "site": "greenlivingtrend",
+  "slug": "window-heat-loss-curtains-film-air-sealing-calculator",
+  "date": "2026-08-27",
+  "backend": "GTI15 ComfyUI",
+  "workflow": "generate_image",
+  "visual_qa": "PASS",
+  "assets": [
+    {
+      "filename": "glt-window-heat-loss-20260827-1.png",
+      "source_filename": "ComfyUI_00239_.png",
+      "accepted": true,
+      "visual_qa": "PASS",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1737223
+    },
+    {
+      "filename": "glt-window-heat-loss-20260827-2.png",
+      "source_filename": "ComfyUI_00240_.png",
+      "accepted": true,
+      "visual_qa": "PASS",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1687477
+    },
+    {
+      "filename": "glt-window-heat-loss-20260827-3.png",
+      "source_filename": "ComfyUI_00242_.png",
+      "accepted": true,
+      "visual_qa": "PASS",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1775149
+    },
+    {
+      "filename": "glt-window-heat-loss-20260827-4.png",
+      "source_filename": "ComfyUI_00243_.png",
+      "accepted": true,
+      "visual_qa": "PASS",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1096869
+    },
+    {
+      "filename": "glt-window-heat-loss-20260827-5.png",
+      "source_filename": "ComfyUI_00250_.png",
+      "accepted": true,
+      "visual_qa": "PASS",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1173466
+    }
+  ],
+  "rejected_sources": "not included in final manifest",
+  "contact_sheet": "glt-window-heat-loss-20260827-final-contact-sheet.jpg"
+}

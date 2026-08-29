@@ -23,7 +23,8 @@ export const REVIEW_POSTS = [
   "shade-tree-home-cooling-energy-plan",
   "solar-panel-cleaning-soiling-rainfall-safety-guide",
   "space-heater-vs-heat-pump-cost-safety-guide",
-  "window-heat-loss-curtains-film-air-sealing-calculator"
+  "window-heat-loss-curtains-film-air-sealing-calculator",
+  "electrical-panel-capacity-home-electrification-load-plan"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

@@ -1,0 +1,60 @@
+{
+  "site": "greenlivingtrend",
+  "date": "2026-08-30",
+  "backend": "GTI15 ComfyUI",
+  "model_priority": "FLUX.1 Krea dev",
+  "accepted": [
+    {
+      "file": "glt-electrical-panel-capacity-20260830-1.png",
+      "engine": "krea",
+      "seed": 1285953633,
+      "prompt_id": "f9368eda-2291-42e6-8f5b-ff968ed543ac",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen\\greenlivingtrend\\hero\\20260830_034436_krea_1285953633.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "glt-electrical-panel-capacity-20260830-2.png",
+      "engine": "krea",
+      "seed": 3241817883,
+      "prompt_id": "b7d33cdc-4971-4975-9058-6015ca4717b7",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen\\greenlivingtrend\\load-management\\20260830_034516_krea_3241817883.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "glt-electrical-panel-capacity-20260830-3.png",
+      "engine": "krea",
+      "seed": 1236985633,
+      "prompt_id": "8f8dda64-4202-4479-bfa4-686976485cab",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen2\\greenlivingtrend\\loads\\20260830_034715_krea_1236985633.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "glt-electrical-panel-capacity-20260830-4.png",
+      "engine": "krea",
+      "seed": 2062864729,
+      "prompt_id": "f09d4524-4c4e-48d6-9ea6-056d4e4a8d8e",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen2\\greenlivingtrend\\panel\\20260830_034728_krea_2062864729.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "glt-electrical-panel-capacity-20260830-5.png",
+      "engine": "krea",
+      "seed": 262360218,
+      "prompt_id": "fe497751-5448-4a03-b2d1-6706ec3cab8e",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen2\\greenlivingtrend\\planning\\20260830_034742_krea_262360218.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    }
+  ],
+  "rejected_candidates_excluded": true,
+  "final_visual_qa": "PASS"
+}
